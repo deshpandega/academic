@@ -1,0 +1,4029 @@
+{
+  "search_metadata": {
+    "completed_in": 0.07,
+    "count": 15,
+    "max_id": 805276040025243649,
+    "max_id_str": "805276040025243649",
+    "next_results": "?max_id=805254831816527875&q=%23AeDilHaiMushkil&include_entities=1",
+    "query": "%23AeDilHaiMushkil",
+    "refresh_url": "?since_id=805276040025243649&q=%23AeDilHaiMushkil&include_entities=1",
+    "since_id": 0,
+    "since_id_str": "0"
+  },
+  "statuses": [
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 05:02:23 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              76,
+              90
+            ],
+            "text": "AnushkaSharma"
+          },
+          {
+            "indices": [
+              91,
+              102
+            ],
+            "text": "JaveAkhtar"
+          },
+          {
+            "indices": [
+              103,
+              114
+            ],
+            "text": "ViratKohli"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/8…",
+            "expanded_url": "https://twitter.com/i/web/status/805276040025243649",
+            "indices": [
+              116,
+              139
+            ],
+            "url": "https://t.co/ZgSaobUDiY"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 54829997,
+            "id_str": "54829997",
+            "indices": [
+              24,
+              38
+            ],
+            "name": "Anushka Sharma",
+            "screen_name": "AnushkaSharma"
+          },
+          {
+            "id": 122995784,
+            "id_str": "122995784",
+            "indices": [
+              39,
+              55
+            ],
+            "name": "Javed Akhtar",
+            "screen_name": "Javedakhtarjadu"
+          },
+          {
+            "id": 71201743,
+            "id_str": "71201743",
+            "indices": [
+              62,
+              71
+            ],
+            "name": "Virat Kohli",
+            "screen_name": "imVkohli"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805276040025243649,
+      "id_str": "805276040025243649",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "text": "How cool is this pic of @AnushkaSharma @Javedakhtarjadu &amp; @imVkohli :)\n\n#AnushkaSharma #JaveAkhtar #ViratKohli… https://t.co/ZgSaobUDiY",
+      "truncated": true,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 07 10:21:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The ultimate destination for all you movie buffs. Stay tuned for Bollywood updates and entertainment!",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "movietalkies.com",
+                "expanded_url": "http://www.movietalkies.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/0UhxDR78dD"
+              }
+            ]
+          }
+        },
+        "favourites_count": 3185,
+        "follow_request_sent": false,
+        "followers_count": 71754,
+        "following": false,
+        "friends_count": 931,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 63682454,
+        "id_str": "63682454",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 144,
+        "location": "",
+        "name": "MovieTalkies.com",
+        "notifications": false,
+        "profile_background_color": "242424",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/682637065314381824/mF4HJmFw.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/682637065314381824/mF4HJmFw.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/63682454/1475384402",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/614365292198653952/HmEbLfHw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/614365292198653952/HmEbLfHw_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MovieTalkies",
+        "statuses_count": 40206,
+        "time_zone": "New Delhi",
+        "translator_type": "regular",
+        "url": "http://t.co/0UhxDR78dD",
+        "utc_offset": 19800,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 04:59:57 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              78,
+              94
+            ],
+            "text": "aedilhaimushkil"
+          },
+          {
+            "indices": [
+              95,
+              109
+            ],
+            "text": "bollywoodnews"
+          },
+          {
+            "indices": [
+              110,
+              123
+            ],
+            "text": "channamereya"
+          },
+          {
+            "indices": [
+              124,
+              137
+            ],
+            "text": "ranbirkapoor"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "hollybollybuzz.com/ranbir-kapoor/…",
+            "expanded_url": "http://www.hollybollybuzz.com/ranbir-kapoor/channa-mereya-first-look-ranbir-kapoor-in-ae-dil-hai-mushkils-next-song/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost",
+            "indices": [
+              54,
+              77
+            ],
+            "url": "https://t.co/zcqsXw36SO"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805275425022889984,
+      "id_str": "805275425022889984",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "hi",
+      "metadata": {
+        "iso_language_code": "hi",
+        "result_type": "recent"
+      },
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://www.ajaymatharu.com/\" rel=\"nofollow\">Tweet Old Post</a>",
+      "text": "Channa Mereya First Look: Ranbir Kapoor In Ae Dil Hai https://t.co/zcqsXw36SO #aedilhaimushkil #bollywoodnews #channamereya #ranbirkapoor",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 20 19:21:17 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Get the latest updates Bollywood and Hollywood, Movies, Gossip, Reviews",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hollybollybuzz.com",
+                "expanded_url": "http://hollybollybuzz.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Y1uFvfmbWo"
+              }
+            ]
+          }
+        },
+        "favourites_count": 26,
+        "follow_request_sent": false,
+        "followers_count": 16070,
+        "following": false,
+        "friends_count": 2009,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 4304013194,
+        "id_str": "4304013194",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 256,
+        "location": "Mumbai, Maharashtra",
+        "name": "Shakshi Kapoor",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4304013194/1448047937",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668504928386617345/eDm7Ys8s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668504928386617345/eDm7Ys8s_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "bolly_hollywood",
+        "statuses_count": 333879,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Y1uFvfmbWo",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 04:42:18 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              55,
+              62
+            ],
+            "text": "Sultan"
+          },
+          {
+            "indices": [
+              67,
+              83
+            ],
+            "text": "AeDilHaiMushkil"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 18354016,
+            "id_str": "18354016",
+            "indices": [
+              3,
+              10
+            ],
+            "name": "Zoom TV",
+            "screen_name": "ZoomTV"
+          },
+          {
+            "id": 54829997,
+            "id_str": "54829997",
+            "indices": [
+              85,
+              99
+            ],
+            "name": "Anushka Sharma",
+            "screen_name": "AnushkaSharma"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805270984660058112,
+      "id_str": "805270984660058112",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 37,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Nov 30 10:30:01 +0000 2016",
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                43,
+                50
+              ],
+              "text": "Sultan"
+            },
+            {
+              "indices": [
+                55,
+                71
+              ],
+              "text": "AeDilHaiMushkil"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/enRje5gmme",
+              "expanded_url": "https://twitter.com/ZoomTV/status/803908936692736000/photo/1",
+              "id": 803898439876517888,
+              "id_str": "803898439876517888",
+              "indices": [
+                117,
+                140
+              ],
+              "media_url": "http://pbs.twimg.com/media/CygFXzBUoAAGBNd.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CygFXzBUoAAGBNd.jpg",
+              "sizes": {
+                "large": {
+                  "h": 1280,
+                  "resize": "fit",
+                  "w": 2048
+                },
+                "medium": {
+                  "h": 750,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 425,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/enRje5gmme"
+            }
+          ],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "id": 54829997,
+              "id_str": "54829997",
+              "indices": [
+                73,
+                87
+              ],
+              "name": "Anushka Sharma",
+              "screen_name": "AnushkaSharma"
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/enRje5gmme",
+              "expanded_url": "https://twitter.com/ZoomTV/status/803908936692736000/photo/1",
+              "id": 803898439876517888,
+              "id_str": "803898439876517888",
+              "indices": [
+                117,
+                140
+              ],
+              "media_url": "http://pbs.twimg.com/media/CygFXzBUoAAGBNd.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CygFXzBUoAAGBNd.jpg",
+              "sizes": {
+                "large": {
+                  "h": 1280,
+                  "resize": "fit",
+                  "w": 2048
+                },
+                "medium": {
+                  "h": 750,
+                  "resize": "fit",
+                  "w": 1200
+                },
+                "small": {
+                  "h": 425,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/enRje5gmme"
+            }
+          ]
+        },
+        "favorite_count": 201,
+        "favorited": false,
+        "geo": null,
+        "id": 803908936692736000,
+        "id_str": "803908936692736000",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 37,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Back-to-back success with her two releases #Sultan and #AeDilHaiMushkil, @AnushkaSharma says she is in a happy space https://t.co/enRje5gmme",
+        "truncated": false,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Wed Dec 24 08:22:42 +0000 2008",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "Turn On Gossip. Turn On Glamour. Turn On Fashion. Turn On Party. Turn On Bollywood #TurnOnZoom",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "facebook.com/zoomtv",
+                  "expanded_url": "http://www.facebook.com/zoomtv",
+                  "indices": [
+                    0,
+                    22
+                  ],
+                  "url": "http://t.co/qb4pzDb7LY"
+                }
+              ]
+            }
+          },
+          "favourites_count": 792,
+          "follow_request_sent": false,
+          "followers_count": 2423548,
+          "following": false,
+          "friends_count": 359,
+          "geo_enabled": true,
+          "has_extended_profile": false,
+          "id": 18354016,
+          "id_str": "18354016",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 1255,
+          "location": "Bollywood",
+          "name": "Zoom TV",
+          "notifications": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675268744042573824/yPfgOcEx.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675268744042573824/yPfgOcEx.jpg",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/18354016/1479291210",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/675266995953143808/XS8tsltq_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/675266995953143808/XS8tsltq_normal.jpg",
+          "profile_link_color": "009999",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "protected": false,
+          "screen_name": "ZoomTV",
+          "statuses_count": 85388,
+          "time_zone": "Mumbai",
+          "translator_type": "none",
+          "url": "http://t.co/qb4pzDb7LY",
+          "utc_offset": 19800,
+          "verified": true
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "RT @ZoomTV: Back-to-back success with her two releases #Sultan and #AeDilHaiMushkil, @AnushkaSharma says she is in a happy space https://t.…",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 18 12:21:20 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "MGKVP Varanasi",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 21,
+        "follow_request_sent": false,
+        "followers_count": 5,
+        "following": false,
+        "friends_count": 34,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 4593501966,
+        "id_str": "4593501966",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Varanasi ",
+        "name": "Yesh Verma  (rahul)",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/801266523256012800/bL0ABxi0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/801266523256012800/bL0ABxi0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "1598rahulverma1",
+        "statuses_count": 21,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 04:39:45 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              28,
+              44
+            ],
+            "text": "AeDilHaiMushkil"
+          },
+          {
+            "indices": [
+              46,
+              61
+            ],
+            "text": "TutejaTalksAt5"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/FilmyGalaxy/st…",
+            "expanded_url": "https://twitter.com/FilmyGalaxy/status/805012746601250816",
+            "indices": [
+              62,
+              85
+            ],
+            "url": "https://t.co/sAXoNsLUyc"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 168692355,
+            "id_str": "168692355",
+            "indices": [
+              3,
+              18
+            ],
+            "name": "Joginder Tuteja",
+            "screen_name": "Tutejajoginder"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805270344537780224,
+      "id_str": "805270344537780224",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "possibly_sensitive": false,
+      "quoted_status_id": 805012746601250816,
+      "quoted_status_id_str": "805012746601250816",
+      "retweet_count": 11,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 03 11:41:34 +0000 2016",
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                8,
+                24
+              ],
+              "text": "AeDilHaiMushkil"
+            },
+            {
+              "indices": [
+                26,
+                41
+              ],
+              "text": "TutejaTalksAt5"
+            }
+          ],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "twitter.com/FilmyGalaxy/st…",
+              "expanded_url": "https://twitter.com/FilmyGalaxy/status/805012746601250816",
+              "indices": [
+                42,
+                65
+              ],
+              "url": "https://t.co/sAXoNsLUyc"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 14,
+        "favorited": false,
+        "geo": null,
+        "id": 805014107137052672,
+        "id_str": "805014107137052672",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+          "contributors": null,
+          "coordinates": null,
+          "created_at": "Sat Dec 03 11:36:09 +0000 2016",
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  70,
+                  85
+                ],
+                "text": "TutejaTalksAt5"
+              }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+              {
+                "id": 168692355,
+                "id_str": "168692355",
+                "indices": [
+                  0,
+                  15
+                ],
+                "name": "Joginder Tuteja",
+                "screen_name": "Tutejajoginder"
+              }
+            ]
+          },
+          "favorite_count": 0,
+          "favorited": false,
+          "geo": null,
+          "id": 805012746601250816,
+          "id_str": "805012746601250816",
+          "in_reply_to_screen_name": "Tutejajoginder",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": 168692355,
+          "in_reply_to_user_id_str": "168692355",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+          },
+          "place": null,
+          "retweet_count": 0,
+          "retweeted": false,
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "text": "@Tutejajoginder Your favourite film and your favourite album of 2k16? #TutejaTalksAt5",
+          "truncated": false,
+          "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Mar 15 12:25:30 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Fastest Upcoming Bollywood Movies Info? Music Info? Film & Music Reviews? Actors? It's All Here! Follow Us @FilmyGalaxy!",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "FilmyGalaxy.com",
+                    "expanded_url": "http://www.FilmyGalaxy.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/hOYRMvsvG2"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 1527,
+            "follow_request_sent": false,
+            "followers_count": 1018,
+            "following": false,
+            "friends_count": 44,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 709717156527788033,
+            "id_str": "709717156527788033",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 2,
+            "location": "Bollywood",
+            "name": "FILMY GALAXY",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/709717156527788033/1476449531",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/799211530898132992/j8f0mZVq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/799211530898132992/j8f0mZVq_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FilmyGalaxy",
+            "statuses_count": 2967,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/hOYRMvsvG2",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "quoted_status_id": 805012746601250816,
+        "quoted_status_id_str": "805012746601250816",
+        "retweet_count": 11,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Album - #AeDilHaiMushkil\n\n#TutejaTalksAt5 https://t.co/sAXoNsLUyc",
+        "truncated": false,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Tue Jul 20 15:06:20 +0000 2010",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "Movie buff",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "bollywoodreflections.com",
+                  "expanded_url": "http://www.bollywoodreflections.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/8Z07cYX4pa"
+                }
+              ]
+            }
+          },
+          "favourites_count": 1,
+          "follow_request_sent": false,
+          "followers_count": 83824,
+          "following": false,
+          "friends_count": 80,
+          "geo_enabled": false,
+          "has_extended_profile": true,
+          "id": 168692355,
+          "id_str": "168692355",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 114,
+          "location": "India",
+          "name": "Joginder Tuteja",
+          "notifications": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/168692355/1476600743",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/794223759787819008/1GlEbUI0_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/794223759787819008/1GlEbUI0_normal.jpg",
+          "profile_link_color": "9266CC",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "protected": false,
+          "screen_name": "Tutejajoginder",
+          "statuses_count": 22820,
+          "time_zone": "New Delhi",
+          "translator_type": "none",
+          "url": "https://t.co/8Z07cYX4pa",
+          "utc_offset": 19800,
+          "verified": true
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "RT @Tutejajoginder: Album - #AeDilHaiMushkil\n\n#TutejaTalksAt5 https://t.co/sAXoNsLUyc",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 23 05:41:19 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just living my dreams.",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 10345,
+        "follow_request_sent": false,
+        "followers_count": 4633,
+        "following": false,
+        "friends_count": 424,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 711870517,
+        "id_str": "711870517",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 32,
+        "location": "India",
+        "name": "Rockstar",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/711870517/1436525719",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/790939117039214592/IcLtgmBx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/790939117039214592/IcLtgmBx_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "shivamrocks02",
+        "statuses_count": 44834,
+        "time_zone": "New Delhi",
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": 19800,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 04:24:54 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              82,
+              98
+            ],
+            "text": "AeDilHaiMushkil"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 2938985466,
+            "id_str": "2938985466",
+            "indices": [
+              3,
+              19
+            ],
+            "name": "RanbirKapoorUniverse",
+            "screen_name": "RanbirKUniverse"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805266606104383488,
+      "id_str": "805266606104383488",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "et",
+      "metadata": {
+        "iso_language_code": "et",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 31,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 03 10:53:17 +0000 2016",
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                61,
+                77
+              ],
+              "text": "AeDilHaiMushkil"
+            }
+          ],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "twitter.com/i/web/status/8…",
+              "expanded_url": "https://twitter.com/i/web/status/805001958679400448",
+              "indices": [
+                97,
+                120
+              ],
+              "url": "https://t.co/jmV13ZaImq"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 41,
+        "favorited": false,
+        "geo": null,
+        "id": 805001958679400448,
+        "id_str": "805001958679400448",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "et",
+        "metadata": {
+          "iso_language_code": "et",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 31,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Ranbir Kapoor in Aaj Jaane ki zid na karo lyrical video from #AeDilHaiMushkil  😍\nWatch it here:… https://t.co/jmV13ZaImq",
+        "truncated": true,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Mon Dec 22 06:38:15 +0000 2014",
+          "default_profile": true,
+          "default_profile_image": false,
+          "description": "Fan Club dedicated to Ranbir Kapoor ONLY !! BEST stop of RKism is right here :)",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "instagram.com/RanbirKapoorUn…",
+                  "expanded_url": "http://instagram.com/RanbirKapoorUniverse",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/idKJHzFn8U"
+                }
+              ]
+            }
+          },
+          "favourites_count": 100,
+          "follow_request_sent": false,
+          "followers_count": 14186,
+          "following": false,
+          "friends_count": 52,
+          "geo_enabled": false,
+          "has_extended_profile": true,
+          "id": 2938985466,
+          "id_str": "2938985466",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 17,
+          "location": "Worldwide",
+          "name": "RanbirKapoorUniverse",
+          "notifications": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2938985466/1480772204",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/804993610017947648/gRED3eo1_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/804993610017947648/gRED3eo1_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "RanbirKUniverse",
+          "statuses_count": 16920,
+          "time_zone": null,
+          "translator_type": "none",
+          "url": "https://t.co/idKJHzFn8U",
+          "utc_offset": null,
+          "verified": false
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "RT @RanbirKUniverse: Ranbir Kapoor in Aaj Jaane ki zid na karo lyrical video from #AeDilHaiMushkil  😍\nWatch it here: https://t.co/5Vsa8D1bm…",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 25 12:45:48 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "AYAN - Ranbir in ADHM & Vikrant in QH...  JOHNNY - Ranbir in BV & Vikrant in Samsung @RKFanGhosts | @MeghCreations",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/itzmeghani",
+                "expanded_url": "http://instagram.com/itzmeghani",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/R6uZJA0XpH"
+              }
+            ]
+          }
+        },
+        "favourites_count": 492,
+        "follow_request_sent": false,
+        "followers_count": 3326,
+        "following": false,
+        "friends_count": 151,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 230430144,
+        "id_str": "230430144",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 41,
+        "location": "",
+        "name": "ŔĶ'ş Řąbđį 💞",
+        "notifications": false,
+        "profile_background_color": "0C0C0D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/586010387960569858/V1cDv4C9.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/586010387960569858/V1cDv4C9.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/230430144/1475165111",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/803265234039410689/B82ahzhZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/803265234039410689/B82ahzhZ_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ItzMeghani",
+        "statuses_count": 112953,
+        "time_zone": "New Delhi",
+        "translator_type": "none",
+        "url": "https://t.co/R6uZJA0XpH",
+        "utc_offset": 19800,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 04:11:14 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              14,
+              30
+            ],
+            "text": "aedilhaimushkil"
+          },
+          {
+            "indices": [
+              31,
+              45
+            ],
+            "text": "tweetmeribeat"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 66319753,
+            "id_str": "66319753",
+            "indices": [
+              0,
+              10
+            ],
+            "name": "bindass",
+            "screen_name": "bindasstv"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805263164887728129,
+      "id_str": "805263164887728129",
+      "in_reply_to_screen_name": "bindasstv",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 66319753,
+      "in_reply_to_user_id_str": "66319753",
+      "is_quote_status": false,
+      "lang": "und",
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://bindass.com\" rel=\"nofollow\">bindass Play</a>",
+      "text": "@bindasstv hi #aedilhaimushkil #tweetmeribeat",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 27 06:51:07 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 3,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 802766687057547264,
+        "id_str": "802766687057547264",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Monish Khan",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MonishK03407786",
+        "statuses_count": 11,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 04:08:35 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              28,
+              44
+            ],
+            "text": "AeDilHaiMushkil"
+          },
+          {
+            "indices": [
+              46,
+              61
+            ],
+            "text": "TutejaTalksAt5"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/FilmyGalaxy/st…",
+            "expanded_url": "https://twitter.com/FilmyGalaxy/status/805012746601250816",
+            "indices": [
+              62,
+              85
+            ],
+            "url": "https://t.co/sAXoNsLUyc"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 168692355,
+            "id_str": "168692355",
+            "indices": [
+              3,
+              18
+            ],
+            "name": "Joginder Tuteja",
+            "screen_name": "Tutejajoginder"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805262499176218626,
+      "id_str": "805262499176218626",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "possibly_sensitive": false,
+      "quoted_status_id": 805012746601250816,
+      "quoted_status_id_str": "805012746601250816",
+      "retweet_count": 11,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 03 11:41:34 +0000 2016",
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                8,
+                24
+              ],
+              "text": "AeDilHaiMushkil"
+            },
+            {
+              "indices": [
+                26,
+                41
+              ],
+              "text": "TutejaTalksAt5"
+            }
+          ],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "twitter.com/FilmyGalaxy/st…",
+              "expanded_url": "https://twitter.com/FilmyGalaxy/status/805012746601250816",
+              "indices": [
+                42,
+                65
+              ],
+              "url": "https://t.co/sAXoNsLUyc"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 14,
+        "favorited": false,
+        "geo": null,
+        "id": 805014107137052672,
+        "id_str": "805014107137052672",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+          "contributors": null,
+          "coordinates": null,
+          "created_at": "Sat Dec 03 11:36:09 +0000 2016",
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  70,
+                  85
+                ],
+                "text": "TutejaTalksAt5"
+              }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+              {
+                "id": 168692355,
+                "id_str": "168692355",
+                "indices": [
+                  0,
+                  15
+                ],
+                "name": "Joginder Tuteja",
+                "screen_name": "Tutejajoginder"
+              }
+            ]
+          },
+          "favorite_count": 0,
+          "favorited": false,
+          "geo": null,
+          "id": 805012746601250816,
+          "id_str": "805012746601250816",
+          "in_reply_to_screen_name": "Tutejajoginder",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": 168692355,
+          "in_reply_to_user_id_str": "168692355",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+          },
+          "place": null,
+          "retweet_count": 0,
+          "retweeted": false,
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "text": "@Tutejajoginder Your favourite film and your favourite album of 2k16? #TutejaTalksAt5",
+          "truncated": false,
+          "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Mar 15 12:25:30 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Fastest Upcoming Bollywood Movies Info? Music Info? Film & Music Reviews? Actors? It's All Here! Follow Us @FilmyGalaxy!",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "FilmyGalaxy.com",
+                    "expanded_url": "http://www.FilmyGalaxy.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/hOYRMvsvG2"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 1527,
+            "follow_request_sent": false,
+            "followers_count": 1018,
+            "following": false,
+            "friends_count": 44,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 709717156527788033,
+            "id_str": "709717156527788033",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 2,
+            "location": "Bollywood",
+            "name": "FILMY GALAXY",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/709717156527788033/1476449531",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/799211530898132992/j8f0mZVq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/799211530898132992/j8f0mZVq_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FilmyGalaxy",
+            "statuses_count": 2967,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/hOYRMvsvG2",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "quoted_status_id": 805012746601250816,
+        "quoted_status_id_str": "805012746601250816",
+        "retweet_count": 11,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Album - #AeDilHaiMushkil\n\n#TutejaTalksAt5 https://t.co/sAXoNsLUyc",
+        "truncated": false,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Tue Jul 20 15:06:20 +0000 2010",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "Movie buff",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "bollywoodreflections.com",
+                  "expanded_url": "http://www.bollywoodreflections.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/8Z07cYX4pa"
+                }
+              ]
+            }
+          },
+          "favourites_count": 1,
+          "follow_request_sent": false,
+          "followers_count": 83824,
+          "following": false,
+          "friends_count": 80,
+          "geo_enabled": false,
+          "has_extended_profile": true,
+          "id": 168692355,
+          "id_str": "168692355",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 114,
+          "location": "India",
+          "name": "Joginder Tuteja",
+          "notifications": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/168692355/1476600743",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/794223759787819008/1GlEbUI0_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/794223759787819008/1GlEbUI0_normal.jpg",
+          "profile_link_color": "9266CC",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "protected": false,
+          "screen_name": "Tutejajoginder",
+          "statuses_count": 22820,
+          "time_zone": "New Delhi",
+          "translator_type": "none",
+          "url": "https://t.co/8Z07cYX4pa",
+          "utc_offset": 19800,
+          "verified": true
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "RT @Tutejajoginder: Album - #AeDilHaiMushkil\n\n#TutejaTalksAt5 https://t.co/sAXoNsLUyc",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 25 12:45:48 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "AYAN - Ranbir in ADHM & Vikrant in QH...  JOHNNY - Ranbir in BV & Vikrant in Samsung @RKFanGhosts | @MeghCreations",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/itzmeghani",
+                "expanded_url": "http://instagram.com/itzmeghani",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/R6uZJA0XpH"
+              }
+            ]
+          }
+        },
+        "favourites_count": 492,
+        "follow_request_sent": false,
+        "followers_count": 3326,
+        "following": false,
+        "friends_count": 151,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 230430144,
+        "id_str": "230430144",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 41,
+        "location": "",
+        "name": "ŔĶ'ş Řąbđį 💞",
+        "notifications": false,
+        "profile_background_color": "0C0C0D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/586010387960569858/V1cDv4C9.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/586010387960569858/V1cDv4C9.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/230430144/1475165111",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/803265234039410689/B82ahzhZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/803265234039410689/B82ahzhZ_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ItzMeghani",
+        "statuses_count": 112953,
+        "time_zone": "New Delhi",
+        "translator_type": "none",
+        "url": "https://t.co/R6uZJA0XpH",
+        "utc_offset": 19800,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 04:07:05 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              28,
+              44
+            ],
+            "text": "AeDilHaiMushkil"
+          },
+          {
+            "indices": [
+              46,
+              61
+            ],
+            "text": "TutejaTalksAt5"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/FilmyGalaxy/st…",
+            "expanded_url": "https://twitter.com/FilmyGalaxy/status/805012746601250816",
+            "indices": [
+              62,
+              85
+            ],
+            "url": "https://t.co/sAXoNsLUyc"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 168692355,
+            "id_str": "168692355",
+            "indices": [
+              3,
+              18
+            ],
+            "name": "Joginder Tuteja",
+            "screen_name": "Tutejajoginder"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805262123047747585,
+      "id_str": "805262123047747585",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "possibly_sensitive": false,
+      "quoted_status_id": 805012746601250816,
+      "quoted_status_id_str": "805012746601250816",
+      "retweet_count": 11,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 03 11:41:34 +0000 2016",
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                8,
+                24
+              ],
+              "text": "AeDilHaiMushkil"
+            },
+            {
+              "indices": [
+                26,
+                41
+              ],
+              "text": "TutejaTalksAt5"
+            }
+          ],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "twitter.com/FilmyGalaxy/st…",
+              "expanded_url": "https://twitter.com/FilmyGalaxy/status/805012746601250816",
+              "indices": [
+                42,
+                65
+              ],
+              "url": "https://t.co/sAXoNsLUyc"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 14,
+        "favorited": false,
+        "geo": null,
+        "id": 805014107137052672,
+        "id_str": "805014107137052672",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+          "contributors": null,
+          "coordinates": null,
+          "created_at": "Sat Dec 03 11:36:09 +0000 2016",
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  70,
+                  85
+                ],
+                "text": "TutejaTalksAt5"
+              }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+              {
+                "id": 168692355,
+                "id_str": "168692355",
+                "indices": [
+                  0,
+                  15
+                ],
+                "name": "Joginder Tuteja",
+                "screen_name": "Tutejajoginder"
+              }
+            ]
+          },
+          "favorite_count": 0,
+          "favorited": false,
+          "geo": null,
+          "id": 805012746601250816,
+          "id_str": "805012746601250816",
+          "in_reply_to_screen_name": "Tutejajoginder",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": 168692355,
+          "in_reply_to_user_id_str": "168692355",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+          },
+          "place": null,
+          "retweet_count": 0,
+          "retweeted": false,
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "text": "@Tutejajoginder Your favourite film and your favourite album of 2k16? #TutejaTalksAt5",
+          "truncated": false,
+          "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Mar 15 12:25:30 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Fastest Upcoming Bollywood Movies Info? Music Info? Film & Music Reviews? Actors? It's All Here! Follow Us @FilmyGalaxy!",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "FilmyGalaxy.com",
+                    "expanded_url": "http://www.FilmyGalaxy.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/hOYRMvsvG2"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 1527,
+            "follow_request_sent": false,
+            "followers_count": 1018,
+            "following": false,
+            "friends_count": 44,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 709717156527788033,
+            "id_str": "709717156527788033",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 2,
+            "location": "Bollywood",
+            "name": "FILMY GALAXY",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/709717156527788033/1476449531",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/799211530898132992/j8f0mZVq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/799211530898132992/j8f0mZVq_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FilmyGalaxy",
+            "statuses_count": 2967,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/hOYRMvsvG2",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "quoted_status_id": 805012746601250816,
+        "quoted_status_id_str": "805012746601250816",
+        "retweet_count": 11,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Album - #AeDilHaiMushkil\n\n#TutejaTalksAt5 https://t.co/sAXoNsLUyc",
+        "truncated": false,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Tue Jul 20 15:06:20 +0000 2010",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "Movie buff",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "bollywoodreflections.com",
+                  "expanded_url": "http://www.bollywoodreflections.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/8Z07cYX4pa"
+                }
+              ]
+            }
+          },
+          "favourites_count": 1,
+          "follow_request_sent": false,
+          "followers_count": 83824,
+          "following": false,
+          "friends_count": 80,
+          "geo_enabled": false,
+          "has_extended_profile": true,
+          "id": 168692355,
+          "id_str": "168692355",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 114,
+          "location": "India",
+          "name": "Joginder Tuteja",
+          "notifications": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/168692355/1476600743",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/794223759787819008/1GlEbUI0_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/794223759787819008/1GlEbUI0_normal.jpg",
+          "profile_link_color": "9266CC",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "protected": false,
+          "screen_name": "Tutejajoginder",
+          "statuses_count": 22820,
+          "time_zone": "New Delhi",
+          "translator_type": "none",
+          "url": "https://t.co/8Z07cYX4pa",
+          "utc_offset": 19800,
+          "verified": true
+        }
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "text": "RT @Tutejajoginder: Album - #AeDilHaiMushkil\n\n#TutejaTalksAt5 https://t.co/sAXoNsLUyc",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 20 04:10:08 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ROCKSTAR #RANBIRKAPOOR \nADMIRE  SHAH RUKH KHAN",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 25811,
+        "follow_request_sent": false,
+        "followers_count": 736,
+        "following": false,
+        "friends_count": 952,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2990599716,
+        "id_str": "2990599716",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 27,
+        "location": "",
+        "name": "JAGGA",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2990599716/1451726682",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770560927137669120/yxqtEwUu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770560927137669120/yxqtEwUu_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JjJordanfan5",
+        "statuses_count": 27835,
+        "time_zone": "Pacific Time (US & Canada)",
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 03:59:31 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              28,
+              44
+            ],
+            "text": "AeDilHaiMushkil"
+          },
+          {
+            "indices": [
+              46,
+              61
+            ],
+            "text": "TutejaTalksAt5"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/FilmyGalaxy/st…",
+            "expanded_url": "https://twitter.com/FilmyGalaxy/status/805012746601250816",
+            "indices": [
+              62,
+              85
+            ],
+            "url": "https://t.co/sAXoNsLUyc"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 168692355,
+            "id_str": "168692355",
+            "indices": [
+              3,
+              18
+            ],
+            "name": "Joginder Tuteja",
+            "screen_name": "Tutejajoginder"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805260216870862848,
+      "id_str": "805260216870862848",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "possibly_sensitive": false,
+      "quoted_status_id": 805012746601250816,
+      "quoted_status_id_str": "805012746601250816",
+      "retweet_count": 11,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 03 11:41:34 +0000 2016",
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                8,
+                24
+              ],
+              "text": "AeDilHaiMushkil"
+            },
+            {
+              "indices": [
+                26,
+                41
+              ],
+              "text": "TutejaTalksAt5"
+            }
+          ],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "twitter.com/FilmyGalaxy/st…",
+              "expanded_url": "https://twitter.com/FilmyGalaxy/status/805012746601250816",
+              "indices": [
+                42,
+                65
+              ],
+              "url": "https://t.co/sAXoNsLUyc"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 14,
+        "favorited": false,
+        "geo": null,
+        "id": 805014107137052672,
+        "id_str": "805014107137052672",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+          "contributors": null,
+          "coordinates": null,
+          "created_at": "Sat Dec 03 11:36:09 +0000 2016",
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  70,
+                  85
+                ],
+                "text": "TutejaTalksAt5"
+              }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+              {
+                "id": 168692355,
+                "id_str": "168692355",
+                "indices": [
+                  0,
+                  15
+                ],
+                "name": "Joginder Tuteja",
+                "screen_name": "Tutejajoginder"
+              }
+            ]
+          },
+          "favorite_count": 0,
+          "favorited": false,
+          "geo": null,
+          "id": 805012746601250816,
+          "id_str": "805012746601250816",
+          "in_reply_to_screen_name": "Tutejajoginder",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": 168692355,
+          "in_reply_to_user_id_str": "168692355",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+          },
+          "place": null,
+          "retweet_count": 0,
+          "retweeted": false,
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "text": "@Tutejajoginder Your favourite film and your favourite album of 2k16? #TutejaTalksAt5",
+          "truncated": false,
+          "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Mar 15 12:25:30 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Fastest Upcoming Bollywood Movies Info? Music Info? Film & Music Reviews? Actors? It's All Here! Follow Us @FilmyGalaxy!",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "FilmyGalaxy.com",
+                    "expanded_url": "http://www.FilmyGalaxy.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/hOYRMvsvG2"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 1527,
+            "follow_request_sent": false,
+            "followers_count": 1018,
+            "following": false,
+            "friends_count": 44,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 709717156527788033,
+            "id_str": "709717156527788033",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 2,
+            "location": "Bollywood",
+            "name": "FILMY GALAXY",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/709717156527788033/1476449531",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/799211530898132992/j8f0mZVq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/799211530898132992/j8f0mZVq_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FilmyGalaxy",
+            "statuses_count": 2967,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/hOYRMvsvG2",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "quoted_status_id": 805012746601250816,
+        "quoted_status_id_str": "805012746601250816",
+        "retweet_count": 11,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Album - #AeDilHaiMushkil\n\n#TutejaTalksAt5 https://t.co/sAXoNsLUyc",
+        "truncated": false,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Tue Jul 20 15:06:20 +0000 2010",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "Movie buff",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "bollywoodreflections.com",
+                  "expanded_url": "http://www.bollywoodreflections.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/8Z07cYX4pa"
+                }
+              ]
+            }
+          },
+          "favourites_count": 1,
+          "follow_request_sent": false,
+          "followers_count": 83824,
+          "following": false,
+          "friends_count": 80,
+          "geo_enabled": false,
+          "has_extended_profile": true,
+          "id": 168692355,
+          "id_str": "168692355",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 114,
+          "location": "India",
+          "name": "Joginder Tuteja",
+          "notifications": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/168692355/1476600743",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/794223759787819008/1GlEbUI0_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/794223759787819008/1GlEbUI0_normal.jpg",
+          "profile_link_color": "9266CC",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "protected": false,
+          "screen_name": "Tutejajoginder",
+          "statuses_count": 22820,
+          "time_zone": "New Delhi",
+          "translator_type": "none",
+          "url": "https://t.co/8Z07cYX4pa",
+          "utc_offset": 19800,
+          "verified": true
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "RT @Tutejajoginder: Album - #AeDilHaiMushkil\n\n#TutejaTalksAt5 https://t.co/sAXoNsLUyc",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 31 03:54:28 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "RanbirKapoor as an actor take more risk then spider man. He is the most fearless actor. If you don't get his acting means you don't have a heart.",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 17333,
+        "follow_request_sent": false,
+        "followers_count": 382,
+        "following": false,
+        "friends_count": 172,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1634488026,
+        "id_str": "1634488026",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 36,
+        "location": "Canada",
+        "name": "Jagga 7 April 2017",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634488026/1480188149",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/799381695963205633/qnKC0fAs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/799381695963205633/qnKC0fAs_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Marcopo50514289",
+        "statuses_count": 36948,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 03:54:51 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              28,
+              44
+            ],
+            "text": "AeDilHaiMushkil"
+          },
+          {
+            "indices": [
+              46,
+              61
+            ],
+            "text": "TutejaTalksAt5"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/FilmyGalaxy/st…",
+            "expanded_url": "https://twitter.com/FilmyGalaxy/status/805012746601250816",
+            "indices": [
+              62,
+              85
+            ],
+            "url": "https://t.co/sAXoNsLUyc"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 168692355,
+            "id_str": "168692355",
+            "indices": [
+              3,
+              18
+            ],
+            "name": "Joginder Tuteja",
+            "screen_name": "Tutejajoginder"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805259043866439680,
+      "id_str": "805259043866439680",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "possibly_sensitive": false,
+      "quoted_status_id": 805012746601250816,
+      "quoted_status_id_str": "805012746601250816",
+      "retweet_count": 11,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 03 11:41:34 +0000 2016",
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                8,
+                24
+              ],
+              "text": "AeDilHaiMushkil"
+            },
+            {
+              "indices": [
+                26,
+                41
+              ],
+              "text": "TutejaTalksAt5"
+            }
+          ],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "twitter.com/FilmyGalaxy/st…",
+              "expanded_url": "https://twitter.com/FilmyGalaxy/status/805012746601250816",
+              "indices": [
+                42,
+                65
+              ],
+              "url": "https://t.co/sAXoNsLUyc"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 14,
+        "favorited": false,
+        "geo": null,
+        "id": 805014107137052672,
+        "id_str": "805014107137052672",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+          "contributors": null,
+          "coordinates": null,
+          "created_at": "Sat Dec 03 11:36:09 +0000 2016",
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  70,
+                  85
+                ],
+                "text": "TutejaTalksAt5"
+              }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+              {
+                "id": 168692355,
+                "id_str": "168692355",
+                "indices": [
+                  0,
+                  15
+                ],
+                "name": "Joginder Tuteja",
+                "screen_name": "Tutejajoginder"
+              }
+            ]
+          },
+          "favorite_count": 0,
+          "favorited": false,
+          "geo": null,
+          "id": 805012746601250816,
+          "id_str": "805012746601250816",
+          "in_reply_to_screen_name": "Tutejajoginder",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": 168692355,
+          "in_reply_to_user_id_str": "168692355",
+          "is_quote_status": false,
+          "lang": "en",
+          "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+          },
+          "place": null,
+          "retweet_count": 0,
+          "retweeted": false,
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "text": "@Tutejajoginder Your favourite film and your favourite album of 2k16? #TutejaTalksAt5",
+          "truncated": false,
+          "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Mar 15 12:25:30 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Fastest Upcoming Bollywood Movies Info? Music Info? Film & Music Reviews? Actors? It's All Here! Follow Us @FilmyGalaxy!",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "FilmyGalaxy.com",
+                    "expanded_url": "http://www.FilmyGalaxy.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/hOYRMvsvG2"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 1527,
+            "follow_request_sent": false,
+            "followers_count": 1018,
+            "following": false,
+            "friends_count": 44,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 709717156527788033,
+            "id_str": "709717156527788033",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 2,
+            "location": "Bollywood",
+            "name": "FILMY GALAXY",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/709717156527788033/1476449531",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/799211530898132992/j8f0mZVq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/799211530898132992/j8f0mZVq_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FilmyGalaxy",
+            "statuses_count": 2967,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/hOYRMvsvG2",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "quoted_status_id": 805012746601250816,
+        "quoted_status_id_str": "805012746601250816",
+        "retweet_count": 11,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Album - #AeDilHaiMushkil\n\n#TutejaTalksAt5 https://t.co/sAXoNsLUyc",
+        "truncated": false,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Tue Jul 20 15:06:20 +0000 2010",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "Movie buff",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "bollywoodreflections.com",
+                  "expanded_url": "http://www.bollywoodreflections.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/8Z07cYX4pa"
+                }
+              ]
+            }
+          },
+          "favourites_count": 1,
+          "follow_request_sent": false,
+          "followers_count": 83824,
+          "following": false,
+          "friends_count": 80,
+          "geo_enabled": false,
+          "has_extended_profile": true,
+          "id": 168692355,
+          "id_str": "168692355",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 114,
+          "location": "India",
+          "name": "Joginder Tuteja",
+          "notifications": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/168692355/1476600743",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/794223759787819008/1GlEbUI0_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/794223759787819008/1GlEbUI0_normal.jpg",
+          "profile_link_color": "9266CC",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "protected": false,
+          "screen_name": "Tutejajoginder",
+          "statuses_count": 22820,
+          "time_zone": "New Delhi",
+          "translator_type": "none",
+          "url": "https://t.co/8Z07cYX4pa",
+          "utc_offset": 19800,
+          "verified": true
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "RT @Tutejajoginder: Album - #AeDilHaiMushkil\n\n#TutejaTalksAt5 https://t.co/sAXoNsLUyc",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 21 06:23:51 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I AM NOT RANBIR KAPOOR. BUT WE ARE HIS FANS. WATCH #AeDilHaiMushkil  in Theaters now #JaggaJasoos on April, 2017",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 2918,
+        "follow_request_sent": false,
+        "followers_count": 63,
+        "following": false,
+        "friends_count": 28,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 789351475407310848,
+        "id_str": "789351475407310848",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "RK'S COUNTRY ",
+        "name": "RANBIR KAPOOR",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/789351475407310848/1479528076",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/789377891079294976/LE7XdyxI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/789377891079294976/LE7XdyxI_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "RKswarrior",
+        "statuses_count": 1187,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 03:52:59 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              35,
+              51
+            ],
+            "text": "AeDilHaiMushkil"
+          },
+          {
+            "indices": [
+              53,
+              74
+            ],
+            "text": "AishwaryaRaiBachchan"
+          },
+          {
+            "indices": [
+              75,
+              88
+            ],
+            "text": "GorgeousLook"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mVQUOttC7Q",
+            "expanded_url": "https://twitter.com/AUniverse_Ram/status/805232257766223872/photo/1",
+            "id": 805232243845304320,
+            "id_str": "805232243845304320",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+            "sizes": {
+              "large": {
+                "h": 554,
+                "resize": "fit",
+                "w": 1020
+              },
+              "medium": {
+                "h": 554,
+                "resize": "fit",
+                "w": 1020
+              },
+              "small": {
+                "h": 369,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 805232257766223872,
+            "source_status_id_str": "805232257766223872",
+            "source_user_id": 4799167904,
+            "source_user_id_str": "4799167904",
+            "type": "photo",
+            "url": "https://t.co/mVQUOttC7Q"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 4799167904,
+            "id_str": "4799167904",
+            "indices": [
+              3,
+              17
+            ],
+            "name": "Aishwarya Universe",
+            "screen_name": "AUniverse_Ram"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mVQUOttC7Q",
+            "expanded_url": "https://twitter.com/AUniverse_Ram/status/805232257766223872/photo/1",
+            "id": 805232243845304320,
+            "id_str": "805232243845304320",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+            "sizes": {
+              "large": {
+                "h": 554,
+                "resize": "fit",
+                "w": 1020
+              },
+              "medium": {
+                "h": 554,
+                "resize": "fit",
+                "w": 1020
+              },
+              "small": {
+                "h": 369,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 805232257766223872,
+            "source_status_id_str": "805232257766223872",
+            "source_user_id": 4799167904,
+            "source_user_id_str": "4799167904",
+            "type": "photo",
+            "url": "https://t.co/mVQUOttC7Q"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805258571168370688,
+      "id_str": "805258571168370688",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 3,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 02:08:25 +0000 2016",
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                16,
+                32
+              ],
+              "text": "AeDilHaiMushkil"
+            },
+            {
+              "indices": [
+                34,
+                55
+              ],
+              "text": "AishwaryaRaiBachchan"
+            },
+            {
+              "indices": [
+                56,
+                69
+              ],
+              "text": "GorgeousLook"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/mVQUOttC7Q",
+              "expanded_url": "https://twitter.com/AUniverse_Ram/status/805232257766223872/photo/1",
+              "id": 805232243845304320,
+              "id_str": "805232243845304320",
+              "indices": [
+                70,
+                93
+              ],
+              "media_url": "http://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+              "sizes": {
+                "large": {
+                  "h": 554,
+                  "resize": "fit",
+                  "w": 1020
+                },
+                "medium": {
+                  "h": 554,
+                  "resize": "fit",
+                  "w": 1020
+                },
+                "small": {
+                  "h": 369,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/mVQUOttC7Q"
+            }
+          ],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/mVQUOttC7Q",
+              "expanded_url": "https://twitter.com/AUniverse_Ram/status/805232257766223872/photo/1",
+              "id": 805232243845304320,
+              "id_str": "805232243845304320",
+              "indices": [
+                70,
+                93
+              ],
+              "media_url": "http://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+              "sizes": {
+                "large": {
+                  "h": 554,
+                  "resize": "fit",
+                  "w": 1020
+                },
+                "medium": {
+                  "h": 554,
+                  "resize": "fit",
+                  "w": 1020
+                },
+                "small": {
+                  "h": 369,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/mVQUOttC7Q"
+            }
+          ]
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "geo": null,
+        "id": 805232257766223872,
+        "id_str": "805232257766223872",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "PictureOfTheDay #AeDilHaiMushkil  #AishwaryaRaiBachchan #GorgeousLook https://t.co/mVQUOttC7Q",
+        "truncated": false,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Fri Jan 22 17:42:18 +0000 2016",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "Ram »» Tamil Speaking Boy » Aishwarya Biggest Fan »» Follow me for Exclusive News , Pics & Videos of #AishwaryaRaiBachchan",
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "favourites_count": 1449,
+          "follow_request_sent": false,
+          "followers_count": 786,
+          "following": false,
+          "friends_count": 24,
+          "geo_enabled": true,
+          "has_extended_profile": true,
+          "id": 4799167904,
+          "id_str": "4799167904",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 9,
+          "location": "Chennai, India",
+          "name": "Aishwarya Universe",
+          "notifications": false,
+          "profile_background_color": "FFF04D",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690597141228576769/NP0GvYxU.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690597141228576769/NP0GvYxU.jpg",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4799167904/1480415997",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/803551680365297664/nH9CYVhp_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/803551680365297664/nH9CYVhp_normal.jpg",
+          "profile_link_color": "981CEB",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "AUniverse_Ram",
+          "statuses_count": 2139,
+          "time_zone": "Pacific Time (US & Canada)",
+          "translator_type": "none",
+          "url": null,
+          "utc_offset": -28800,
+          "verified": false
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "RT @AUniverse_Ram: PictureOfTheDay #AeDilHaiMushkil  #AishwaryaRaiBachchan #GorgeousLook https://t.co/mVQUOttC7Q",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 03 08:41:12 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hi #Anbarassi here! #Tamil #Girl,22\n#Malaysian\n#LoveToBe#Real,#NoFakeness\n#Dreamer #Achiver #NaturalBeauty \n#Great&CraziestFanOf#AishwaryaRai\n#DreamToBeA#Star",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 12753,
+        "follow_request_sent": false,
+        "followers_count": 682,
+        "following": false,
+        "friends_count": 361,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2838825984,
+        "id_str": "2838825984",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Malaysia",
+        "name": "QueenOfTruth&Justice",
+        "notifications": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/641184454468177920/hBf-MA0w.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/641184454468177920/hBf-MA0w.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2838825984/1479832265",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/805105289137557504/aszTRcGJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/805105289137557504/aszTRcGJ_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Anbarassi19",
+        "statuses_count": 7254,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 03:48:07 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              14
+            ],
+            "text": "AnushkaSharma"
+          },
+          {
+            "indices": [
+              17,
+              31
+            ],
+            "text": "HrithikRoshan"
+          },
+          {
+            "indices": [
+              38,
+              49
+            ],
+            "text": "YamiGautam"
+          },
+          {
+            "indices": [
+              57,
+              73
+            ],
+            "text": "GQFashionNights"
+          },
+          {
+            "indices": [
+              78,
+              90
+            ],
+            "text": "livemithila"
+          },
+          {
+            "indices": [
+              91,
+              98
+            ],
+            "text": "kaabil"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/i/web/status/8…",
+            "expanded_url": "https://twitter.com/i/web/status/805257347333378048",
+            "indices": [
+              111,
+              134
+            ],
+            "url": "https://t.co/4y0XYcniOu"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 113419517,
+            "id_str": "113419517",
+            "indices": [
+              100,
+              109
+            ],
+            "name": "Hrithik Roshan",
+            "screen_name": "iHrithik"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805257347333378048,
+      "id_str": "805257347333378048",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "text": "#AnushkaSharma , #HrithikRoshan &amp; #YamiGautam at the #GQFashionNights ❤️💛\n#livemithila #kaabil  @iHrithik… https://t.co/4y0XYcniOu",
+      "truncated": true,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 26 08:39:53 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Box office news",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 10,
+        "follow_request_sent": false,
+        "followers_count": 1275,
+        "following": false,
+        "friends_count": 23,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 4848954112,
+        "id_str": "4848954112",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 58,
+        "location": "Noida, Uttar Pradesh",
+        "name": "LMG Entertainment",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4848954112/1463674594",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/691913124337827841/vtK-qgZB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/691913124337827841/vtK-qgZB_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "LMGEntertainmen",
+        "statuses_count": 15612,
+        "time_zone": "Pacific Time (US & Canada)",
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 03:41:50 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              35,
+              51
+            ],
+            "text": "AeDilHaiMushkil"
+          },
+          {
+            "indices": [
+              53,
+              74
+            ],
+            "text": "AishwaryaRaiBachchan"
+          },
+          {
+            "indices": [
+              75,
+              88
+            ],
+            "text": "GorgeousLook"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mVQUOttC7Q",
+            "expanded_url": "https://twitter.com/AUniverse_Ram/status/805232257766223872/photo/1",
+            "id": 805232243845304320,
+            "id_str": "805232243845304320",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+            "sizes": {
+              "large": {
+                "h": 554,
+                "resize": "fit",
+                "w": 1020
+              },
+              "medium": {
+                "h": 554,
+                "resize": "fit",
+                "w": 1020
+              },
+              "small": {
+                "h": 369,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 805232257766223872,
+            "source_status_id_str": "805232257766223872",
+            "source_user_id": 4799167904,
+            "source_user_id_str": "4799167904",
+            "type": "photo",
+            "url": "https://t.co/mVQUOttC7Q"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 4799167904,
+            "id_str": "4799167904",
+            "indices": [
+              3,
+              17
+            ],
+            "name": "Aishwarya Universe",
+            "screen_name": "AUniverse_Ram"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mVQUOttC7Q",
+            "expanded_url": "https://twitter.com/AUniverse_Ram/status/805232257766223872/photo/1",
+            "id": 805232243845304320,
+            "id_str": "805232243845304320",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+            "sizes": {
+              "large": {
+                "h": 554,
+                "resize": "fit",
+                "w": 1020
+              },
+              "medium": {
+                "h": 554,
+                "resize": "fit",
+                "w": 1020
+              },
+              "small": {
+                "h": 369,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 805232257766223872,
+            "source_status_id_str": "805232257766223872",
+            "source_user_id": 4799167904,
+            "source_user_id_str": "4799167904",
+            "type": "photo",
+            "url": "https://t.co/mVQUOttC7Q"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805255766223581184,
+      "id_str": "805255766223581184",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 3,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 02:08:25 +0000 2016",
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                16,
+                32
+              ],
+              "text": "AeDilHaiMushkil"
+            },
+            {
+              "indices": [
+                34,
+                55
+              ],
+              "text": "AishwaryaRaiBachchan"
+            },
+            {
+              "indices": [
+                56,
+                69
+              ],
+              "text": "GorgeousLook"
+            }
+          ],
+          "media": [
+            {
+              "display_url": "pic.twitter.com/mVQUOttC7Q",
+              "expanded_url": "https://twitter.com/AUniverse_Ram/status/805232257766223872/photo/1",
+              "id": 805232243845304320,
+              "id_str": "805232243845304320",
+              "indices": [
+                70,
+                93
+              ],
+              "media_url": "http://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+              "sizes": {
+                "large": {
+                  "h": 554,
+                  "resize": "fit",
+                  "w": 1020
+                },
+                "medium": {
+                  "h": 554,
+                  "resize": "fit",
+                  "w": 1020
+                },
+                "small": {
+                  "h": 369,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/mVQUOttC7Q"
+            }
+          ],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/mVQUOttC7Q",
+              "expanded_url": "https://twitter.com/AUniverse_Ram/status/805232257766223872/photo/1",
+              "id": 805232243845304320,
+              "id_str": "805232243845304320",
+              "indices": [
+                70,
+                93
+              ],
+              "media_url": "http://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CyzCdaAXEAA4mrh.jpg",
+              "sizes": {
+                "large": {
+                  "h": 554,
+                  "resize": "fit",
+                  "w": 1020
+                },
+                "medium": {
+                  "h": 554,
+                  "resize": "fit",
+                  "w": 1020
+                },
+                "small": {
+                  "h": 369,
+                  "resize": "fit",
+                  "w": 680
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/mVQUOttC7Q"
+            }
+          ]
+        },
+        "favorite_count": 7,
+        "favorited": false,
+        "geo": null,
+        "id": 805232257766223872,
+        "id_str": "805232257766223872",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "PictureOfTheDay #AeDilHaiMushkil  #AishwaryaRaiBachchan #GorgeousLook https://t.co/mVQUOttC7Q",
+        "truncated": false,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Fri Jan 22 17:42:18 +0000 2016",
+          "default_profile": false,
+          "default_profile_image": false,
+          "description": "Ram »» Tamil Speaking Boy » Aishwarya Biggest Fan »» Follow me for Exclusive News , Pics & Videos of #AishwaryaRaiBachchan",
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "favourites_count": 1449,
+          "follow_request_sent": false,
+          "followers_count": 786,
+          "following": false,
+          "friends_count": 24,
+          "geo_enabled": true,
+          "has_extended_profile": true,
+          "id": 4799167904,
+          "id_str": "4799167904",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 9,
+          "location": "Chennai, India",
+          "name": "Aishwarya Universe",
+          "notifications": false,
+          "profile_background_color": "FFF04D",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690597141228576769/NP0GvYxU.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690597141228576769/NP0GvYxU.jpg",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4799167904/1480415997",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/803551680365297664/nH9CYVhp_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/803551680365297664/nH9CYVhp_normal.jpg",
+          "profile_link_color": "981CEB",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "AUniverse_Ram",
+          "statuses_count": 2139,
+          "time_zone": "Pacific Time (US & Canada)",
+          "translator_type": "none",
+          "url": null,
+          "utc_offset": -28800,
+          "verified": false
+        }
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+      "text": "RT @AUniverse_Ram: PictureOfTheDay #AeDilHaiMushkil  #AishwaryaRaiBachchan #GorgeousLook https://t.co/mVQUOttC7Q",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 29 11:10:34 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 3,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 803556755636703232,
+        "id_str": "803556755636703232",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "ranbir",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ranbir09912481",
+        "statuses_count": 44,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 03:41:36 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              30,
+              50
+            ],
+            "text": "AajJaaneKiZidNaKaro"
+          },
+          {
+            "indices": [
+              56,
+              72
+            ],
+            "text": "AeDilHaiMushkil"
+          },
+          {
+            "indices": [
+              99,
+              112
+            ],
+            "text": "RanbirKapoor"
+          },
+          {
+            "indices": [
+              113,
+              134
+            ],
+            "text": "AishwaryaRaiBachchan"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/gbG0SG9flmQ",
+            "expanded_url": "http://youtu.be/gbG0SG9flmQ",
+            "indices": [
+              75,
+              98
+            ],
+            "url": "https://t.co/byRryUTtjB"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 4127050579,
+            "id_str": "4127050579",
+            "indices": [
+              3,
+              18
+            ],
+            "name": "POP Diaries",
+            "screen_name": "Popdiarieslive"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805255707234803712,
+      "id_str": "805255707234803712",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 13,
+      "retweeted": false,
+      "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 03 10:58:08 +0000 2016",
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                10,
+                30
+              ],
+              "text": "AajJaaneKiZidNaKaro"
+            },
+            {
+              "indices": [
+                36,
+                52
+              ],
+              "text": "AeDilHaiMushkil"
+            },
+            {
+              "indices": [
+                79,
+                92
+              ],
+              "text": "RanbirKapoor"
+            },
+            {
+              "indices": [
+                93,
+                114
+              ],
+              "text": "AishwaryaRaiBachchan"
+            }
+          ],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "youtu.be/gbG0SG9flmQ",
+              "expanded_url": "http://youtu.be/gbG0SG9flmQ",
+              "indices": [
+                55,
+                78
+              ],
+              "url": "https://t.co/byRryUTtjB"
+            },
+            {
+              "display_url": "twitter.com/i/web/status/8…",
+              "expanded_url": "https://twitter.com/i/web/status/805003177682575363",
+              "indices": [
+                116,
+                139
+              ],
+              "url": "https://t.co/ZZdYdevGus"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 14,
+        "favorited": false,
+        "geo": null,
+        "id": 805003177682575363,
+        "id_str": "805003177682575363",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 13,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Check Out #AajJaaneKiZidNaKaro from #AeDilHaiMushkil - https://t.co/byRryUTtjB #RanbirKapoor #AishwaryaRaiBachchan… https://t.co/ZZdYdevGus",
+        "truncated": true,
+        "user": {
+          "contributors_enabled": false,
+          "created_at": "Wed Nov 04 19:16:41 +0000 2015",
+          "default_profile": true,
+          "default_profile_image": false,
+          "description": "Your friend that serves entertainment on the platter with daily dose of Lifestyle hacks, Fashion tips and Bollywood spice. Safe for daily consumption!!",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "popdiaries.com",
+                  "expanded_url": "http://www.popdiaries.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/Q8dP4E2GSq"
+                }
+              ]
+            }
+          },
+          "favourites_count": 1029,
+          "follow_request_sent": false,
+          "followers_count": 3599,
+          "following": false,
+          "friends_count": 1020,
+          "geo_enabled": false,
+          "has_extended_profile": false,
+          "id": 4127050579,
+          "id_str": "4127050579",
+          "is_translation_enabled": false,
+          "is_translator": false,
+          "lang": "en",
+          "listed_count": 32,
+          "location": "Mumbai, India",
+          "name": "POP Diaries",
+          "notifications": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4127050579/1469219012",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/666645787380572160/_sd3YRCu_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/666645787380572160/_sd3YRCu_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "protected": false,
+          "screen_name": "Popdiarieslive",
+          "statuses_count": 8532,
+          "time_zone": "Pacific Time (US & Canada)",
+          "translator_type": "none",
+          "url": "https://t.co/Q8dP4E2GSq",
+          "utc_offset": -28800,
+          "verified": false
+        }
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+      "text": "RT @Popdiarieslive: Check Out #AajJaaneKiZidNaKaro from #AeDilHaiMushkil - https://t.co/byRryUTtjB #RanbirKapoor #AishwaryaRaiBachchan @Dha…",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 29 11:10:34 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 0,
+        "following": false,
+        "friends_count": 3,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 803556755636703232,
+        "id_str": "803556755636703232",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "ranbir",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ranbir09912481",
+        "statuses_count": 44,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Dec 04 03:38:07 +0000 2016",
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              84,
+              100
+            ],
+            "text": "AeDilHaiMushkil"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "geo": null,
+      "id": 805254831816527876,
+      "id_str": "805254831816527876",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "in",
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "place": null,
+      "retweet_count": 0,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text": "Dil ko Teri chahat p bharosa bhi bhat ha\nOr tujh se bixha.d Jane ka dar b nai ha ..\n#AeDilHaiMushkil",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 21 14:45:34 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "studying @UET_lahore(Fsd Campus)\nMechatronics & control engineering...☺♥♡\nExecutive Member @BDS #PublicCoordinator.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/asnan_farooq",
+                "expanded_url": "http://about.me/asnan_farooq",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/GdQl8jF2Cc"
+              }
+            ]
+          }
+        },
+        "favourites_count": 112,
+        "follow_request_sent": false,
+        "followers_count": 244,
+        "following": false,
+        "friends_count": 2007,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 3251750395,
+        "id_str": "3251750395",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Gujranwala, Pakistan",
+        "name": "Asnan Farooq♤",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3251750395/1480793449",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804375862678265856/4cmTNV1a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804375862678265856/4cmTNV1a_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ecdcd4f4613a42f",
+        "statuses_count": 248,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/GdQl8jF2Cc",
+        "utc_offset": null,
+        "verified": false
+      }
+    }
+  ]
+}

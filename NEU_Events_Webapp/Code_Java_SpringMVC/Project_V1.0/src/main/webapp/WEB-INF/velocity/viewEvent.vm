@@ -1,0 +1,83 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>NU Events</title>
+	<link rel="stylesheet" href="resources/css/material.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="resources/css/read.css">
+    <style>
+		#view-source {
+        	position: fixed;
+        	display: block;
+        	right: 0;
+        	bottom: 0;
+        	margin-right: 40px;
+        	margin-bottom: 40px;
+			z-index: 900;
+        }
+    </style>
+</head>
+<body onload="modifyButtonText()"> ##
+<div class="mdl-layout__container">
+	<div class="mdl-layout mdl-layout--fixed-header mdl-js-layout mdl-color--grey-100 has-tabs is-upgraded" data-upgraded=",MaterialLayout">
+		#parse("WEB-INF/velocity/header.vm")
+		<main class="mdl-layout__content">
+			<div class="mdl-layout__tab-panel is-active" style="height: 100%;">
+				#parse("WEB-INF/velocity/twitterPost.vm")
+				<div class="mdl-layout__tab-panel is-active" style="margin: 0px 8px;">
+				<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--16dp" style="max-width: 100%; width: 700px; height:auto; margin-top: 8px;margin-left: 6%;float: left;">
+					<div class="mdl-card mdl-cell mdl-cell--12-col" style="text-align: -webkit-center; height: auto; padding: 0px 8px;">
+						<form action="eventSubscribe.htm" commandName="createEventObject" method="POST" enctype="multipart/form-data">
+							<div class="mdl-card__title" style="padding: 16px; display: block;">
+								<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label" style="margin: 0px; width: 100%;">
+									$event.eventName
+								</div>
+							</div>
+							<div class="mdl-card__supporting-text" style="padding-top: 0px;">
+								<div class="eventImageDiv">
+									<div class="eventImages" style="height: 100%;">
+										<img class="imageDiv" src=$event.imagePath />
+									</div>
+								</div>
+								<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label eventDivs" style="margin-top: 20px;">
+									$event.eventDescription
+								</div>
+
+								<div class="body-row">
+									<span class="four-colomn">
+										<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label eventDivs">
+											$event.eventDate
+										</div>
+									</span> 
+									<span class="four-colomn">
+										<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label eventDivs">
+											$event.eventTime
+										</div>
+									</span> 
+								</div>
+								
+								<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label eventDivs">
+									$event.addressLine1 $event.addressLine2 $event.city $event.state
+								</div>
+								<input type="hidden" value="$event.id" id="eventNumber" name="eventNumber"/>
+								<input type="hidden" id="buttonText" value="$!subscription" name="buttonText"/>
+								<div style="padding-top: 18px; float: left; margin-left: 10%;">
+                                	<button id="subscribeButton" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent redButton" style="margin-top: 0px;margin-bottom: 5px;">
+  										$!subscription
+									</button>
+                                </div>
+							</div>
+						</form>
+					</div>
+				</section>
+				</div>
+			</div>
+			#parse("WEB-INF/velocity/footer.vm")
+		</main>
+	</div>
+</div>
+<script src="resources/js/ISWebsite.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script src="resources/js/material.min.js"></script>
+</body>
+</html>

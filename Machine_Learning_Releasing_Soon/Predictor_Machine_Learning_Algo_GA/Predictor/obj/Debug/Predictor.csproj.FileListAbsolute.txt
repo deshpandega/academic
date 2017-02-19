@@ -1,0 +1,6 @@
+C:\GD\VisualStudioWorkspace\Predictor\Predictor\bin\Debug\Predictor.exe.config
+C:\GD\VisualStudioWorkspace\Predictor\Predictor\bin\Debug\Predictor.exe
+C:\GD\VisualStudioWorkspace\Predictor\Predictor\bin\Debug\Predictor.pdb
+C:\GD\VisualStudioWorkspace\Predictor\Predictor\obj\Debug\Predictor.csprojResolveAssemblyReference.cache
+C:\GD\VisualStudioWorkspace\Predictor\Predictor\obj\Debug\Predictor.exe
+C:\GD\VisualStudioWorkspace\Predictor\Predictor\obj\Debug\Predictor.pdb

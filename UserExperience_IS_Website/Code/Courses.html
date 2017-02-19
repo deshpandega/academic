@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Courses</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/material.min.js"></script>
+<script src="js/ISWebsite.js"></script>
+
+<!-- Page Style -->
+<link rel="stylesheet" href="css/material.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="css/isWebsite.css">
+
+</head>
+<body>
+<div class="mdl-layout__container">
+	<div class="mdl-layout__header--waterfall mdl-layout mdl-js-layout">
+		<header class="mdl-layout__header mdl-layout__header--waterfall is-casting-shadow">
+			<!-- Top row, always visible -->
+			<div class="mdl-layout__header-row fixedHeaderRow">
+			<a class="logo-link" href="Homepage.html">
+				<img alt="Northeastern Logo" src="images/Logo1.png" height="75" width="75">
+				<img alt="Northeastern Logo" src="images/NUWriting.png" height="50" width="250">
+			</a>
+			<span class="mdl-layout__title">Information System</span>
+			<span class="mdl-layout-spacer"></span>
+			
+			<div class="mdl-layout-spacer"></div>
+			<nav class="mdl-navigation">
+        		<a class="mdl-navigation__link otherPages" href="academics.html">Academics</a>
+        		<a class="mdl-navigation__link selectedPage" href="Courses.html">Courses</a>
+        		<a class="mdl-navigation__link otherPages" href="faculty.html">Faculty</a>
+        		<a class="mdl-navigation__link otherPages" href="job.html">Jobs</a>
+      		</nav>
+		</div>
+		</header>
+		<div class="mdl-layout__content">
+			<section id="banner" class="section news-feeds slideshow-controller__container">
+				<div class="coinflipper_Wrapper">
+					<img class="courseImage" src="images/courcesImg.jpg">
+  					<div class="courseTab">
+  						<div><h2>Courses</h2></div>
+  						<div class="firstSlideSubHeading"><h6>The Master of Science Degree in Information System offers students options to choose between eight different tracks of specialization. Explore the tabs to find out more about the courses offered at Northeastern.</h6></div>
+  						<div class="buttonOnCarousalRight">
+  							<button onClick="document.getElementById('cources').scrollIntoView();" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent buttonBlack">
+  								Explore Courses
+							</button>
+						</div>
+  					</div>
+				</div>
+			</section>
+			<section id="cources" class="cources-controller__container">
+				<div class="drawerContainer">
+					<nav class="menu">
+						<div class="item"><span id="techCourse">Technical Courses</span></div>
+						<div class="item"><span id="manCourse">Management Courses</span></div>
+						<div class="item"><span id="dsCourse">Data Science Courses</span></div>
+						<div class="item"><span id="webDevCourse">Web Development Courses</span></div>
+					</nav>
+				</div>
+				<div class="coursesBody mdl-shadow--2dp">
+					<div class="mdl-card mdl-cell mdl-cell--12-col" style="background-color: #EFEFEF;">
+						<div id="technicalCources">
+  							<div><h2>Technical Courses</h2></div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 5000 - C Programming and Development</div>
+  									<div class="courseDesc">Serves as an introduction to the C programming language and the Unix operating system. Basic C programming language topics include data types, basic I/O, selection-control structures, loop structures, subroutines and modular design, arrays, strings, structures, advanced I/O, and Unix system calls. Discusses pointers in the context of parameter passing, array manipulation, and dynamic memory allocation. Unix topics include the file system, basic commands and utilities, utilities useful for program development, and shell scripting. Covers recursion and basic list structures. Prereq. Engineering students only.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 5100 - Application Engineering and Development</div>
+  									<div class="courseDesc">Covers the basics of Java programming such as arrays, control structures, class definitions, class hierarchies, inheritance, objects, streams, constructors, collections, and GUI components. Describes how to develop and execute Java applications and incorporates several programming projects, which strengthen the understanding of object-based and event-driven programming. Provides the student with the opportunity to achieve a strong working competency in object-oriented programming using the Java programming language. Prereq. Junior, senior, or graduate standing; engineering students only. Coreq. INFO 5101.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 5101 - Lab for INFO 5100</div>
+  									<div class="courseDesc">Accompanies INFO 5100. Provides additional instruction in Java programming. Coreq. INFO 5100.</div>
+  									<div class="courseCredits">0.000 Credit hours</div>
+  									<div class="courseCredits">0.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 6150 - Web Design and User Experience Engineering</div>
+  									<div class="courseDesc">Exposes students to both conceptual and technical aspects of Web design. User experience design is the discipline of creating a useful and usable website or application that is easily navigated and meets the needs of both the site owner and its users. Covers Web standards and best practices. Studies the fundamental concepts, techniques, practices, work flows, and tools associated with the practice of user-experience design in Web interfaces. Offers students an opportunity to learn the core principles of information architecture, usability, marketing hierarchy, and user experience for contextual, value-driven websites. Additional areas of focus include typography, color theory and composition, responsive design, CSS3 concepts, basic scripting, and JavaScript libraries to create functional, effective, and visually appealing websites. Prereq. INFO 5100 or CSYE 6200 (either may be taken concurrently).</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 6205 - Program Structure and Algorithms</div>
+  									<div class="courseDesc">Presents data structures and related algorithms, beginning with a brief review of dynamic memory allocation. Discusses the fundamental data structures in detail, including the abstract representation, supporting algorithms, and implementation methods. Focuses on understanding the application of the abstract data structure and the circumstances that affect implementation decisions. Covers lists, stacks, queues, trees, hash tables, and graphs. Covers recursion and searching and sorting algorithms in detail. Emphasizes data abstraction and encapsulation in code design. Explores external storage structures, time permitting. Prereq. INFO 5100 or CSYE 6200; engineering students only.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 7250 - Engineering of Big-Data Systems</div>
+  									<div class="courseDesc">Introduces a general framework for thinking about big data. Services such as Web analytics and intelligent e-commerce have promoted a rapid increase in the volume of data generated, analyzed, and archived. In order to solve the problems related to big data, a newer type of database product has emerged. Covers how to apply technologies like Hadoop, Accumulo, MongoDB, and various NoSQL databases to build simple, robust, and efficient systems to manage and analyze big data. Also describes an easy approach to big data systems that can be built and run by a small team of students. Guides students through the theory of big data systems, how to implement them in practice, and how to deploy and operate them once they are built. Prereq. INFO 6250 with a grade of B.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							
+  						</div>
+  						<div id="managementCources">
+  							<div><h2>Management Courses</h2></div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 6215 - Business Analysis and Information Engineering</div>
+  									<div class="courseDesc">Covers computer information systems and the decision-making process, determination of information requirements, system development life cycle, and system modeling and analysis. Uses a hands-on approach to introduce the student to software engineering methodologies and practices, business requirements specification, business process design, model-driven object-oriented design, software development, and maintenance. Emphasizes the effective leverage of the Unified Modeling Language (UML) to transform business issues and objectives to concrete software solutions that meet business needs and usability and user interface design as critical elements of a successful software engineering engagement. Prereq. Engineering students only.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 6245 - Planning and Managing Information Systems Development</div>
+  									<div class="courseDesc">Provides an overview of the most popular information systems needs' assessment methodologies including portfolio analysis, stage assessment, business systems planning, and the Alloway survey technique. Topics include utilities IS strategic plan prioritization techniques of business goal alignment, architectural compatibility, and cost/benefit and risk analysis to demonstrate how businesses match needs to budgetary constraints. Describes and evaluates options for the placement of the IS function within the organization and a variety of methods to manage the function. Introduces a generic application development and project planning methodology used as a model to facilitate the development of a four-stage project plan for a prototype project. Uses the Project Management Institute's PMBOK and Harvard Business School case studies extensively. Prereq. Engineering students only.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 6255 - Software Quality Control and Management</div>
+  									<div class="courseDesc">Examines techniques for the management and evolution of software systems. Topics include managing software as an asset; life cycle development and rapid development technologies; maintainability; quality assurance of software systems including testing strategies and problem analysis; software risk analysis; analysis of software project failures; process models, such as CMM and ISO 9001; configuration management; and the impact of new development technologies on software management.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 6260 - Business Process Engineering and Management</div>
+  									<div class="courseDesc">Provides a practical laboratory class, applying what students have learned in database design, Web programming, and software development to a series of real projects for real users. Students are asked to work in teams to carry through the implementation of Web-based database applications from analysis of existing systems or prototypes, consideration of alternative designs and implementation, through comprehensive software and database development, to testing and deployment. Teams present their designs, implementation plans, and progress for peer review by the class and others. The objective is to have these real projects fully functional and deployed on the Web by the end of the semester. Prereq. Engineering students only.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 6640 - People, Processes, and Products: Ethics for Engineers</div>
+  									<div class="courseDesc">Addresses the topic of ethical engineering and the various contexts in which ethical situations present themselves. Analyzes the three major normative ethical theories- virtue ethics, deontology, and utilitarianism-and discusses various cases in which a moral dilemma is created. Applies these moral conflicts directly to the practice of engineering, covering issues such as professional liability to consumers, employees, and employers; workplace safety; environmental issues; cross-cultural legal obligations; and social issues. Applying critical thought to difficult situations may prepare students to react thoughtfully in cross-cultural, morally ambiguous workplace situations. Also seeks to develop students' verbal and written communication skills. Prereq. Engineering students only.</div>
+  									<div class="courseCredits">2.000 Credit hours</div>
+  									<div class="courseCredits">2.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 6650 - People, Problems, and Patents: Basics of Intellectual Property</div>
+  									<div class="courseDesc">Addresses subjects that support successful engineering careers by offering students an applied understanding of the fundamentals of intellectual property and the American legal system. Topics include an introduction to types of intellectual property (patents, trade secrets, trademarks, copyrights) and fundamentals of the American legal system (sources of American law, contracts, torts, intellectual property, antitrust). Covers at minimum the difference between "freedom to operate" patent analysis and patentability analysis, best practices for obtaining valuable patent coverage, and the role of patents in developing successful business planning. Also seeks to develop students' applied critical thinking, communication, and presentation skills. Prereq. Engineering students only.</div>
+  									<div class="courseCredits">2.000 Credit hours</div>
+  									<div class="courseCredits">2.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							
+  						</div>
+  						<div id="dataScienceCources">
+  							<div><h2>Data Science Courses</h2></div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 6210 - Data Management and Database Design</div>
+  									<div class="courseDesc">Studies design of information systems from a data perspective for engineering and business applications; data modeling, including entity-relationship (E-R) and object approaches; user-centric information requirements and data sharing; fundamental concepts of database management systems (DBMS) and their applications; alternative data models, with emphasis on relational design; SQL; data normalization; data-driven application design for personal computer, server-based, enterprisewide, and Internet databases; and distributed data applications. Prereq. Engineering students only.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 7250 - Engineering of Big-Data Systems</div>
+  									<div class="courseDesc">Introduces a general framework for thinking about big data. Services such as Web analytics and intelligent e-commerce have promoted a rapid increase in the volume of data generated, analyzed, and archived. In order to solve the problems related to big data, a newer type of database product has emerged. Covers how to apply technologies like Hadoop, Accumulo, MongoDB, and various NoSQL databases to build simple, robust, and efficient systems to manage and analyze big data. Also describes an easy approach to big data systems that can be built and run by a small team of students. Guides students through the theory of big data systems, how to implement them in practice, and how to deploy and operate them once they are built. Prereq. INFO 6250 with a grade of B.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 7275 - Advanced Database Management Systems</div>
+  									<div class="courseDesc">Introduces the skill set required to become a serious database applications developer. Offers an overview of the Oracle9i object-relational database system for those who have mastered the fundamental principles of database design and are competent with basic SQL. Gives students the opportunity to develop a strong understanding of the PL/SQL programming language, which is used to create triggers, user-generated functions, stored procedures, and packages for programming Oracle objects. Emphasizes advanced SQL features and Oracle-specific SQL enhancements. Covers optimization and tuning issues. Covers corresponding material for Transact-SQL (used for Microsoft SQL Server and Sybase database systems) as time and resources permit. Prereq. INFO 5100, INFO 6205, INFO 6210, or CSYE 6200; engineering students only.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 7290 - Data Warehousing and Business Intelligence</div>
+  									<div class="courseDesc">Examines the technical and management aspects of building a data warehouse. Explores the architecture, infrastructure, processes, data quality, database design, and data analysis involved in building the data warehouse for business analysis. Management issues include business goals, tool selection, project management, personnel skills, training, and user requirements. Topics include dimensional data modeling, extraction/transformation/load processes, data quality problems, datamarts, operational data stores (ODS), staging databases, and online analytic processing (OLAP). Prereq. INFO 6205 or INFO 6210; engineering students only.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 7390 - Advances in Data Sciences and Architecture</div>
+  									<div class="courseDesc">Covers a wide range of skills and responsibilities that are necessary for managing complex business performance and operational data. Such data tend to be fragmented, poorly organized, and often flawed. Offers students an opportunity to learn how a more up-to-date mapping of complex data works and to be alerted to the care and attention they must give to such a task as well as the implications of the results. Covers best practices for managing all aspects of the data transformation life cycle, covering broad areas such as requirements gathering, meta-model design, data integration and transformation, as well as implementation and ongoing operations. Discusses tools for mapping fragmented data into business intelligence solutions that guide successful strategies. Prereq. (a) INFO 5100 or CSYE 6200 and (b) INFO 6205 or INFO 6210; engineering students only.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  						</div>
+  						<div id="webDevelopmentCources">
+  							<div><h2>Web Development Courses</h2></div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 6150 - Web Design and User Experience Engineering</div>
+  									<div class="courseDesc">Exposes students to both conceptual and technical aspects of Web design. User experience design is the discipline of creating a useful and usable website or application that is easily navigated and meets the needs of both the site owner and its users. Covers Web standards and best practices. Studies the fundamental concepts, techniques, practices, work flows, and tools associated with the practice of user-experience design in Web interfaces. Offers students an opportunity to learn the core principles of information architecture, usability, marketing hierarchy, and user experience for contextual, value-driven websites. Additional areas of focus include typography, color theory and composition, responsive design, CSS3 concepts, basic scripting, and JavaScript libraries to create functional, effective, and visually appealing websites. Prereq. INFO 5100 or CSYE 6200 (either may be taken concurrently).</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 6250 - Web Development Tools and Methods</div>
+  									<div class="courseDesc">Explores the tools necessary to construct and maintain World Wide Web pages for use in e-commerce. Offers students the opportunity to learn the basics of the hypertext markup language (HTML, a scripting language for formatting Web pages), DHTML (dynamic HTML), JavaScript (an object-based language for client-side processing), PHP scripting, XML, Flash, and Java applets. Students are asked to complete several assignments culminating in an extensive WWW project that uses all the tools discussed in class. Prereq. INFO 5100 or CSYE 6200. Coreq. INFO 6251.</div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  							<div class="firstSlideSubHeading">
+  								<div class="listItem">
+  									<div class="courseTitle">INFO 6350 - Smartphones-Based Web Development</div>
+  									<div class="courseDesc">Covers application development for mobile devices using advanced development platforms. Focuses on how to write mobile applications using cross-platform development tools and processes. Topics include user interfaces, the software life cycle, persistent storage, networking using HTTP and other REST interfaces, and mobile/handheld data applications. Requires a final project. Prereq. INFO 5100 or CSYE 6200. </div>
+  									<div class="courseCredits">4.000 Credit hours</div>
+  									<div class="courseCredits">4.000 Lecture hours</div>
+  									<div class="courseCRN">CRN Number: 12345</div>
+  								</div>
+  							</div>
+  						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Footer -->
+			<footer class="mdl-mega-footer footerIS">
+  				<div class="mdl-mega-footer__top-section">
+  					<div class="mdl-mega-footer__left-section">
+   		 				<button class="mdl-mega-footer__social-btn facebook"></button>
+   			   			<button class="mdl-mega-footer__social-btn google"></button>
+      					<button class="mdl-mega-footer__social-btn instagram"></button>
+    	  				<button class="mdl-mega-footer__social-btn linkedin"></button>
+      					<button class="mdl-mega-footer__social-btn twitter"></button>
+      					<button class="mdl-mega-footer__social-btn youtube"></button>
+    				</div>
+  				</div>
+  				<div class="mdl-mega-footer__middle-section">
+          <div class="mdl-mega-footer__drop-down-section">
+                            <h1 class="mdl-mega-footer__heading"><a href="https://www.northeastern.edu/admissions/connect/contact/" target="_blank">Contact Us</a></h1>
+                        </div>
+                        <div class="mdl-mega-footer__drop-down-section">
+                            <h1 class="mdl-mega-footer__heading"><a href="http://www.northeastern.edu/" target="_blank">About Us</a></h1>
+                        </div>
+                        <div class="mdl-mega-footer__drop-down-section">
+                            <h1 class="mdl-mega-footer__heading"><a href="http://www.northeastern.edu/privacy/index.html" target="_blank">Privacy Statement</a></h1>
+                        </div>
+                        <div class="mdl-mega-footer__drop-down-section">
+                            <h1 class="mdl-mega-footer__heading"><a href="http://www.northeastern.edu/its/" target="_blank">Report Issues</a></h1>
+                        </div>
+  				</div>
+  				<div class="mdl-mega-footer__bottom-section">
+   					<ul class="mdl-mega-footer__link-list">
+      					<li>&copy; Copyright Team Awesome</li>
+    				</ul>
+  				</div>
+  			</footer>
+		</div>
+	</div>
+</div>
+</body>
+</html>

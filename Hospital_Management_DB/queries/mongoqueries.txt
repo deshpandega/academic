@@ -1,0 +1,30 @@
+use patient
+
+db.patient.find({
+		patientid: "12"
+		})
+************************************
+db.patient.find( { patientid: "1" } )
+var myCursor = db.patient.find( );
+myCursor.forEach(printjson)
+************************************
+use patient
+var myCursor = db.patient.find({ patientid: "5" });
+var patient_id = myCursor.hasNext() ? myCursor.next() : null
+use person
+db.person.find({"person id" : patient_id.personid})
+
+************************************
+use person
+
+db.person.find().sort({fname:1})
+************************************
+var myCursorPerson = db.person.find( );
+myCursorPerson.forEach(printjson)
+************************************
+db.person.find().limit( 5 )
+************************************
+var myCursorPerson = db.person.find( );
+myCursorPerson.forEach(printjson)
+
+

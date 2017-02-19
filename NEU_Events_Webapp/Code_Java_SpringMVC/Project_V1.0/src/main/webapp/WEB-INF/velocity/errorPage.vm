@@ -1,0 +1,46 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>404 Buddy!</title>
+	<link rel="stylesheet" href="resources/css/material.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="resources/css/read.css">
+    <style>
+		#view-source {
+        	position: fixed;
+        	display: block;
+        	right: 0;
+        	bottom: 0;
+        	margin-right: 40px;
+        	margin-bottom: 40px;
+			z-index: 900;
+        }
+    </style>
+</head>
+<body>
+<div class="mdl-layout__container">
+	<div class="mdl-layout mdl-layout--fixed-header mdl-js-layout mdl-color--grey-100 has-tabs is-upgraded" data-upgraded=",MaterialLayout">
+		#parse("WEB-INF/velocity/header.vm")
+		<main class="mdl-layout__content">
+			<div class="mdl-layout__tab-panel is-active">
+				<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--16dp" style="max-width: 50%; width: 100%; margin-top: 20px;">
+					<div class="mdl-card mdl-cell mdl-cell--12-col" style=" background-size: cover; background-image: url(resources/images/404-page-not-found-large.png);">
+						<div class="hover_center" >
+							<div style="margin-top: 25px;color: #f2f2f2;">Pom pom pom pom pom.. duh.. duh.. duh.. duh.. dhush...!</div>
+							<div style="margin-top: 5px;color: #f2f2f2;">$error</div>
+							<div></div>
+							<img src="resources/images/errorArray.png" style="width: 193px;height: 353px;position: relative;left: -260px;top: -93px;"/>
+							<div style="position: relative;bottom: 107px;left: 59px;width: 153px;height: 57px;padding-top: 17px;color: #f2f2f2;font-size: larger;background-color: #F44336;">Go Home</div>
+						</div>
+					</div>
+				</section>
+			</div>
+		</main>
+		#parse("WEB-INF/velocity/footer.vm")
+	</div>
+</div>
+<script src="resources/js/ISWebsite.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script src="resources/js/material.min.js"></script>
+</body>
+</html>

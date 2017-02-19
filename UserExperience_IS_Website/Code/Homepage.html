@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0 minimum-scale=1.0">
+<title>Northeastern University: Information Systems</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/material.min.js"></script>
+<script src="js/ISWebsite.js"></script>
+
+<!-- Page Style -->
+<link rel="stylesheet" href="css/material.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="css/isWebsite.css">
+</head>
+
+<body>
+<div class="mdl-layout__container">
+	<!-- Navigation Bar -->
+	<div class="mdl-layout__header--waterfall mdl-layout mdl-js-layout">
+	<header class="mdl-layout__header mdl-layout__header--waterfall is-casting-shadow">
+		<!-- Top row, always visible -->
+		<div class="mdl-layout__header-row fixedHeaderRow">
+			<!--  <span class="mdl-layout-icon"></span> -->
+			<a class="logo-link" href="Homepage.html">
+				<img alt="Northeastern Logo" src="images/Logo1.png" height="75" width="75">
+				<img alt="Northeastern Logo" src="images/NUWriting.png" height="50" width="250">
+			</a>
+			<span class="mdl-layout__title">Information System</span>
+			<span class="mdl-layout-spacer"></span>
+			
+		</div>
+		<div class="mdl-layout__header-row subHeader">
+			<div class="mdl-layout-spacer"></div>
+			<nav class="mdl-navigation">
+        		<a class="mdl-navigation__link" href="academics.html">Academics</a>
+        		<a class="mdl-navigation__link" href="Courses.html">Courses</a>
+        		<a class="mdl-navigation__link" href="faculty.html">Faculty</a>
+        		<a class="mdl-navigation__link" href="job.html">Jobs</a>
+      		</nav>
+		</div>
+	</header>
+  	<div class="mdl-layout__content">
+  	<div class="coinflipper_Wrapper">
+  		<div class="slider">
+  			<ul class="listStyle">
+  				<li class="slide">
+  					<img src="images/neu2.jpg">
+  					<div class="firstSlide">
+  						<div></div>
+  						<div class="firstSlideSubHeading"></div>
+  						<div class="buttonOnCarousalRight">
+  							
+						</div>
+  					</div>
+  				</li>
+  				<li class="slide">
+  					<img src="images/neu.jpg" >
+  					<div class="secondSlide">
+  						<div><h2 style="color:black">IS Offers a wide range of Courses</h2></div>
+  						<div class="firstSlideSubHeading"></div>
+  						<div class="buttonOnCarousalLeft">
+  							
+						</div>
+  					</div>
+  				</li>
+  				<li class="slide">
+  					<img src="images/NEU5.jpg" >
+  					<div class="firstSlide">
+  						<div></div>
+  						<div class="firstSlideSubHeading"></div>
+  						<div class="buttonOnCarousalRight">
+  							
+						</div>
+  					</div>
+  				</li>
+  				<li class="slide">
+  					<img src="images/neu6.jpg" >
+  					<div class="secondSlide">
+  						<div><h2>Know more about professors, companies visited, book appointments</h2></div>
+  						<div class="firstSlideSubHeading"></div>
+  						<div class="buttonOnCarousalLeft">
+  							
+						</div>
+  					</div>
+  				</li>
+  			</ul>
+  			
+			<!-- onClick="document.getElementById('events').scrollIntoView();" -->
+  		</div>
+  		<button type="button" id="hoveringButton" onClick="document.getElementById('events').scrollIntoView();" class="down-button mdl-button mdl-js-button mdl-button--fab m-icon mdl-button--colored mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+			<i class="material-icons">keyboard_arrow_down</i>
+		</button>
+  	</div>
+	<section id="events" class="section news-feeds slideshow-controller__container">
+		<h2 class="sectionHeading">Events</h2>
+		<div class="eventsSlab mdl-grid">
+			<div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp">
+				<div class="mdl-card card">
+					<div class="mdl-card__media">
+						<img src="images/PMEvent.jpg" class="imageCard">
+					</div>
+					<div class="mdl-card__title">
+						<h2 class="mdl-card__title-text">Project Management Conference</h2>
+					</div>
+					<div class="mdl-card__supporting-text">
+						Explore project success beyond the traditional triple constraint management. Click to know more
+					</div>
+					<div class="mdl-card__actions  mdl-card--border">
+						<a href="#" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">View</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp">
+				<div class="mdl-card card">
+					<div class="mdl-card__media">
+						<img src="images/GradEvent.jpg" class="imageCard">
+					</div>
+					<div class="mdl-card__title">
+						<h2 class="mdl-card__title-text">Year End Celebration : Grad Students</h2>
+					</div>
+					<div class="mdl-card__supporting-text">
+						Seniors, Alumni, Faculty and Staff please check your email for RSVP instructions! RSVP required.
+					</div>
+					<div class="mdl-card__actions  mdl-card--border">
+						<a href="#" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">View</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp">
+				<div class="mdl-card card">
+					<div class="mdl-card__media">
+						<img src="images/Northeastern.jpg" class="imageCard">
+					</div>
+					<div class="mdl-card__title">
+						<h2 class="mdl-card__title-text">2016 Students Award Ceremony</h2>
+					</div>
+					<div class="mdl-card__supporting-text">
+						The graduation celebrations is to honor the College of Engineering class of 2016. Click to RSVP link.
+					</div>
+					<div class="mdl-card__actions  mdl-card--border">
+						<a href="#" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">View</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent buttonBlack">
+  			More Events
+		</button> -->
+		<div class="moreEvents">
+			<button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+  				More Events
+			</button>
+		</div>
+	</section>
+  	
+  	<section id="newsAndFeed" class="section news-feeds newsAndFeed-controller__container">
+		<h2 class="sectionHeading">News and Feeds</h2>
+		<div class="eventsSlab mdl-grid">
+			<div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp">
+				<div class="mdl-card card">
+					<div class="mdl-card__title">
+						<h2 class="mdl-card__title-text">Feeds</h2>
+					</div>
+					<div class="newsFeedsScroller">
+						<div class="mdl-card__supporting-text">
+							<span class="newsFeed">By using today's ubiquitous cell phones and tablets, campuses can deliver safety-awareness skills and training in a way the students want it!</span>
+							<br><a href="http://www.campussafetymagazine.com/article2/12079" target="_blank" style="target-new: tab;"> visit </a>
+						</div>
+						<div class="mdl-card__supporting-text newsFeed">
+							<span class="newsFeed">We sat down with President Aoun to discuss a wide range of topics. The first part of the discussion focused on his personal journey. In this installment, we delve into his priorities here at Northeastern.</span>
+							<br><a href="http://www.northeastern.edu/news/2016/04/a-conversation-with-president-aoun-part-2/" target="_blank" style="target-new: tab;"> visit </a>
+						</div>
+						<div class="mdl-card__supporting-text newsFeed">
+							<span class="newsFeed">President Aoun and Massachusetts governor Charlie Baker on Tuesday announced a major investment that will drive the development of smart sensors and nanomaterials used for a range of medical, defense, and energy applications.</span>
+							<br><a href="http://www.northeastern.edu/news/2016/04/northeastern-secures-state-grant-to-lead-cutting-edge-nanomaterial-smart-sensor-research-and-development/" target="_blank" style="target-new: tab;"> visit </a>
+						</div>
+						<div class="mdl-card__supporting-text newsFeed">
+							<span class="newsFeed">RISE:2016 showcased the extensive research and entrepreneurial spirit of both students and faculty.</span>
+							<br><a href="http://www.northeastern.edu/news/2016/04/liveblog-rise-2016/" target="_blank" style="target-new: tab;"> visit </a>
+						</div>
+						<div class="mdl-card__supporting-text newsFeed">
+							<span class="newsFeed">Are you ready for GameOfThrones tonight? We looked at the science behind the show  .</span>
+							<br><a href="http://bit.ly/1VmGMDi" target="_blank" style="target-new: tab;"> visit </a>
+						</div>
+						
+						<div class="mdl-card__supporting-text newsFeed">
+							<span class="newsFeed">Research suggests that faculty-in-residence programs are mutually beneficial for students and faculty alike.</span>
+							<br><a href="https://t.co/6zq3a8wTKC/" target="_blank" style="target-new: tab;"> visit </a>
+						</div>
+						<div class="mdl-card__supporting-text newsFeed">
+							<span class="newsFeed">How we designed an interdisciplinary course to reinvent journalism at @Northeastern</span>
+							<br><a href="https://t.co/3jean0EA6e/" target="_blank" style="target-new: tab;"> visit </a>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			
+			<div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp">
+				<div class="mdl-card card">
+					<div class="mdl-card__title">
+						<h2 class="mdl-card__title-text">Reminders</h2>
+					</div>
+					<div class="newsFeedsScroller" style="height: 411px;">
+						<div class="mdl-card__supporting-text">
+							<span class="newsFeed">Complete trace survey</span>
+						</div>
+						<div class="mdl-card__supporting-text newsFeed">
+							<span class="newsFeed">Graduation Commencements on May 6th 2016</span>
+						</div>
+						<div class="mdl-card__supporting-text newsFeed">
+							<span class="newsFeed"></span>
+						</div>
+						<div class="mdl-card__supporting-text newsFeed">
+							<span class="newsFeed"></span>
+						</div>
+						<div class="mdl-card__supporting-text newsFeed">
+							<span class="newsFeed"></span>
+						</div>
+						
+						<div class="mdl-card__supporting-text newsFeed">
+							<span class="newsFeed"></span>
+						</div>
+						<div class="mdl-card__supporting-text newsFeed">
+							<span class="newsFeed"></span>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			<div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp">
+				<div class="mdl-card card">
+					<div class="mdl-card__title">
+						<h2 class="mdl-card__title-text">Birthdays</h2>
+					</div>
+					<div class="newsFeedsScroller" style="height: 411px;">
+						Happy birthday to
+						<div class="mdl-card__supporting-text">
+							
+						</div>
+						<div class="mdl-card__supporting-text">
+							
+						</div>
+						<div class="mdl-card__supporting-text">
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+		
+	<section id="video" class="section video video-controller__container">
+		<div class="eventsSlab mdl-grid mdl-shadow--2dp">
+			<iframe class="videoContent" width="787" height="480" src="https://www.youtube.com/embed/0vuknGalS4k" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</section>
+	
+	<!-- Footer -->
+	<footer class="mdl-mega-footer footerIS">
+  		<div class="mdl-mega-footer__top-section">
+  			<div class="mdl-mega-footer__left-section">
+    			<button class="mdl-mega-footer__social-btn facebook"></button>
+      			<button class="mdl-mega-footer__social-btn google"></button>
+      			<button class="mdl-mega-footer__social-btn instagram"></button>
+      			<button class="mdl-mega-footer__social-btn linkedin"></button>
+      			<button class="mdl-mega-footer__social-btn twitter"></button>
+      			<button class="mdl-mega-footer__social-btn youtube"></button>
+    		</div>
+  		</div>
+  		<div class="mdl-mega-footer__middle-section">
+  			<div class="mdl-mega-footer__drop-down-section">
+      			<h1 class="mdl-mega-footer__heading"><a href="https://www.northeastern.edu/admissions/connect/contact/" target="_blank">Contact Us</a></h1>
+    		</div>
+    		<div class="mdl-mega-footer__drop-down-section">
+     			<h1 class="mdl-mega-footer__heading"><a href="http://www.northeastern.edu/" target="_blank">About Us</a></h1>
+    		</div>
+    		<div class="mdl-mega-footer__drop-down-section">
+     			<h1 class="mdl-mega-footer__heading"><a href="http://www.northeastern.edu/privacy/index.html" target="_blank">Privacy Statement</a></h1>
+    		</div>
+    		<div class="mdl-mega-footer__drop-down-section">
+     			<h1 class="mdl-mega-footer__heading"><a href="http://www.northeastern.edu/its/" target="_blank">Report Issues</a></h1>
+    		</div>
+  		</div>
+  		<div class="mdl-mega-footer__bottom-section">
+   			<ul class="mdl-mega-footer__link-list">
+      			<li>&copy; Copyright Team Awesome</li>
+    		</ul>
+  		</div>
+  	</footer>
+  	</div>
+  	
+	</div>
+</div>
+</body>
+</html>

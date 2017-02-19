@@ -1,0 +1,1742 @@
+use hospitals 
+db.hospitals.insertMany(
+	[
+		{
+			"id": "1",
+			"name": "boston children hospital",
+			"contactnumber": "(617) 355-6000",
+			"add_id": "1"
+		},
+		{
+			"id": "2",
+			"name": "mount auburn hospital",
+			"contactnumber": "(617) 492-3500",
+			"add_id": "34"
+		},
+		{
+			"id": "3",
+			"name": "boston medical center corporation",
+			"contactnumber": "(617) 638-8000",
+			"add_id": "35"
+		},
+		{
+			"id": "4",
+			"name": "beth israel deaconess medical center",
+			"contactnumber": "(617) 667-7000",
+			"add_id": "36"
+		},
+		{
+			"id": "5",
+			"name": "massachusetts generaljhospital",
+			"contactnumber": "(617) 726-2000",
+			"add_id": "37"
+		},
+		{
+			"id": "6",
+			"name": "tufts medical center",
+			"contactnumber": "(617) 636-5000",
+			"add_id": "38"
+		}
+	]
+)
+
+use address
+db.address.insertMany(
+	[
+		{
+			"id": "1",
+			"line1": "300 longwood ave",
+			"line2": "",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2115",
+			"country": "usa"
+		},
+		{
+			"id": "2",
+			"line1": "60 st germain street",
+			"line2": "apt 5",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2115",
+			"country": "usa"
+		},
+		{
+			"id": "3",
+			"line1": "75 st alphonsus street",
+			"line2": "",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2120",
+			"country": "usa"
+		},
+		{
+			"id": "4",
+			"line1": "15 smith street",
+			"line2": "b",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2120",
+			"country": "usa"
+		},
+		{
+			"id": "5",
+			"line1": "30 dalton street",
+			"line2": "",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2115",
+			"country": "usa"
+		},
+		{
+			"id": "6",
+			"line1": "40 st alphonosus street",
+			"line2": "c",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2120",
+			"country": "usa"
+		},
+		{
+			"id": "7",
+			"line1": "28 st alphonsus street",
+			"line2": "b",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2120",
+			"country": "usa"
+		},
+		{
+			"id": "8",
+			"line1": "hyde park ave",
+			"line2": "1050",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2136",
+			"country": "usa"
+		},
+		{
+			"id": "9",
+			"line1": "e eighth st",
+			"line2": "671",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2127",
+			"country": "usa"
+		},
+		{
+			"id": "10",
+			"line1": "sanborn ave",
+			"line2": "109",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2132",
+			"country": "usa"
+		},
+		{
+			"id": "11",
+			"line1": "south st",
+			"line2": "5",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2135",
+			"country": "usa"
+		},
+		{
+			"id": "12",
+			"line1": "broadlawn park",
+			"line2": "57",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2132",
+			"country": "usa"
+		},
+		{
+			"id": "13",
+			"line1": "paul gore st",
+			"line2": "68",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2130",
+			"country": "usa"
+		},
+		{
+			"id": "14",
+			"line1": "florida st",
+			"line2": "90",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2124",
+			"country": "usa"
+		},
+		{
+			"id": "15",
+			"line1": "e eighth st",
+			"line2": "344",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2127",
+			"country": "usa"
+		},
+		{
+			"id": "16",
+			"line1": "middle st",
+			"line2": "42-44",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2127",
+			"country": "usa"
+		},
+		{
+			"id": "17",
+			"line1": "henry sterling sq",
+			"line2": "14",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2127",
+			"country": "usa"
+		},
+		{
+			"id": "18",
+			"line1": "e fourth st",
+			"line2": "905",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2127",
+			"country": "usa"
+		},
+		{
+			"id": "19",
+			"line1": "grew ave",
+			"line2": "89a",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2131",
+			"country": "usa"
+		},
+		{
+			"id": "20",
+			"line1": "louder's ln",
+			"line2": "21",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2130",
+			"country": "usa"
+		},
+		{
+			"id": "21",
+			"line1": "northdale ter",
+			"line2": "10",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2132",
+			"country": "usa"
+		},
+		{
+			"id": "22",
+			"line1": "perkins st",
+			"line2": "111",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2130",
+			"country": "usa"
+		},
+		{
+			"id": "23",
+			"line1": "elmore st",
+			"line2": "35",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2119",
+			"country": "usa"
+		},
+		{
+			"id": "24",
+			"line1": "mountfort st",
+			"line2": "120",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2215",
+			"country": "usa"
+		},
+		{
+			"id": "25",
+			"line1": "beacon st",
+			"line2": "199",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2116",
+			"country": "usa"
+		},
+		{
+			"id": "26",
+			"line1": "tremont st",
+			"line2": "750",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2118",
+			"country": "usa"
+		},
+		{
+			"id": "27",
+			"line1": "washington st",
+			"line2": "1850",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2118",
+			"country": "usa"
+		},
+		{
+			"id": "28",
+			"line1": "e broadway",
+			"line2": "508",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2127",
+			"country": "usa"
+		},
+		{
+			"id": "29",
+			"line1": "huntington ave",
+			"line2": "660",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2120",
+			"country": "usa"
+		},
+		{
+			"id": "30",
+			"line1": "folsom st",
+			"line2": "18",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2125",
+			"country": "usa"
+		},
+		{
+			"id": "31",
+			"line1": "lawley st",
+			"line2": "29",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2122",
+			"country": "usa"
+		},
+		{
+			"id": "32",
+			"line1": "adams st",
+			"line2": "596",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2122",
+			"country": "usa"
+		},
+		{
+			"id": "33",
+			"line1": "eliot pl",
+			"line2": "7-8 ",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2130",
+			"country": "usa"
+		},
+		{
+			"id": "34",
+			"line1": "330 mount auburn street",
+			"line2": "",
+			"city": "cambridge",
+			"state": "ma",
+			"zip": "2138",
+			"country": "usa"
+		},
+		{
+			"id": "35",
+			"line1": "boston meducal center place",
+			"line2": "1",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2118",
+			"country": "usa"
+		},
+		{
+			"id": "36",
+			"line1": "330 brookline avenue",
+			"line2": "",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2115",
+			"country": "usa"
+		},
+		{
+			"id": "37",
+			"line1": "55 fruit street",
+			"line2": "",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2114",
+			"country": "usa"
+		},
+		{
+			"id": "38",
+			"line1": "800 washington street",
+			"line2": "",
+			"city": "boston",
+			"state": "ma",
+			"zip": "2111",
+			"country": "usa"
+		}
+	]
+)
+
+use appointment
+db.appointment.insertMany(
+	[
+		{
+			"appointid": "1",
+			"appstartdate": "2016-08-14 13:00:00",
+			"bookedby": "1",
+			"bookedfor": "4",
+			"reason": "regular checkup",
+			"appbill": "50",
+			"appenddate": "2016-08-14 13:30:00"
+		},
+		{
+			"appointid": "2",
+			"appstartdate": "2016-10-19 14:00:00",
+			"bookedby": "8",
+			"bookedfor": "4",
+			"reason": "general checkup",
+			"appbill": "50",
+			"appenddate": "2016-10-19 14:30:00"
+		},
+		{
+			"appointid": "3",
+			"appstartdate": "2016-08-31 12:00:00",
+			"bookedby": "1",
+			"bookedfor": "4",
+			"reason": "regular checkup",
+			"appbill": "50",
+			"appenddate": "2016-08-31 12:30:00"
+		},
+		{
+			"appointid": "4",
+			"appstartdate": "2016-08-16 09:00:00",
+			"bookedby": "2",
+			"bookedfor": "6",
+			"reason": "general checkup",
+			"appbill": "40",
+			"appenddate": "2016-08-16 09:30:00"
+		},
+		{
+			"appointid": "5",
+			"appstartdate": "2016-09-01 10:30:00 ",
+			"bookedby": "3",
+			"bookedfor": "6",
+			"reason": "general checkup",
+			"appbill": "40",
+			"appenddate": "2016-09-01 11:00:00 "
+		},
+		{
+			"appointid": "6",
+			"appstartdate": "2016-09-14 11:00:00 ",
+			"bookedby": "5",
+			"bookedfor": "9",
+			"reason": "regular checkup",
+			"appbill": "40",
+			"appenddate": "2016-09-14 11:30:00 "
+		},
+		{
+			"appointid": "7",
+			"appstartdate": "2016-08-25 09:00:00",
+			"bookedby": "2",
+			"bookedfor": "2",
+			"reason": "regular checkup",
+			"appbill": "50",
+			"appenddate": "2016-08-25 09:30:00"
+		},
+		{
+			"appointid": "8",
+			"appstartdate": "2016-10-30 20:00:00",
+			"bookedby": "9",
+			"bookedfor": "6",
+			"reason": "general checkup",
+			"appbill": "50",
+			"appenddate": "2016-10-30 20:30:00"
+		},
+		{
+			"appointid": "9",
+			"appstartdate": "2016-09-13 20:30:00",
+			"bookedby": "6",
+			"bookedfor": "2",
+			"reason": "regular checkup",
+			"appbill": "40",
+			"appenddate": "2016-09-13 21:00:00"
+		},
+		{
+			"appointid": "10",
+			"appstartdate": "2016-09-14 12:00:00",
+			"bookedby": "5",
+			"bookedfor": "7",
+			"reason": "general checkup",
+			"appbill": "40",
+			"appenddate": "2016-09-14 12:30:00"
+		},
+		{
+			"appointid": "11",
+			"appstartdate": "2016-09-26 09:00:00",
+			"bookedby": "7",
+			"bookedfor": "7",
+			"reason": "regular checkup",
+			"appbill": "100",
+			"appenddate": "2016-09-26 09:00:00"
+		},
+		{
+			"appointid": "12",
+			"appstartdate": "2016-09-07 10:00:00",
+			"bookedby": "4",
+			"bookedfor": "9",
+			"reason": "regular checkup",
+			"appbill": "40",
+			"appenddate": "2016-09-07 10:30:00"
+		},
+		{
+			"appointid": "13",
+			"appstartdate": "2016-09-10 12:00:00",
+			"bookedby": "4",
+			"bookedfor": "1",
+			"reason": "general checkup",
+			"appbill": "40",
+			"appenddate": "2016-09-10 12:00:00"
+		},
+		{
+			"appointid": "14",
+			"appstartdate": "2016-11-22 08:00:00",
+			"bookedby": "10",
+			"bookedfor": "4",
+			"reason": "general checkup",
+			"appbill": "50",
+			"appenddate": "2016-11-22 08:30:00"
+		},
+		{
+			"appointid": "15",
+			"appstartdate": "2016-11-24 09:00:00",
+			"bookedby": "11",
+			"bookedfor": "2",
+			"reason": "general checkup",
+			"appbill": "80",
+			"appenddate": "2016-11-24 09:30:00"
+		}
+	]
+)
+
+use department
+db.department.insertMany([
+	{
+		"depid": "1",
+		"depname": "anaesthetics",
+		"hospid": "1"
+	},
+	{
+		"depid": "2",
+		"depname": "cardiology",
+		"hospid": "1"
+	},
+	{
+		"depid": "3",
+		"depname": "ear nose and throat",
+		"hospid": "1"
+	},
+	{
+		"depid": "4",
+		"depname": "gastroenterology",
+		"hospid": "1"
+	},
+	{
+		"depid": "5",
+		"depname": "gynaecology",
+		"hospid": "1"
+	},
+	{
+		"depid": "6",
+		"depname": "general surgery",
+		"hospid": "1"
+	},
+	{
+		"depid": "7",
+		"depname": "neurology",
+		"hospid": "1"
+	},
+	{
+		"depid": "8",
+		"depname": "orthopaedics",
+		"hospid": "1"
+	},
+	{
+		"depid": "9",
+		"depname": "physiotherapy",
+		"hospid": "1"
+	},
+	{
+		"depid": "10",
+		"depname": "radiotherapy",
+		"hospid": "1"
+	},
+	{
+		"depid": "11",
+		"depname": "hr",
+		"hospid": "1"
+	}
+])
+
+use patient
+db.patient.insertMany(
+	[
+	{
+		"patientid": "1",
+		"roleid": "1",
+		"personid": "1",
+		"admissiondate": "2016-08-13",
+		"previoustay": "n",
+		"reason": "surgery for broken leg",
+		"patienttype": "1"
+	},
+	{
+		"patientid": "2",
+		"roleid": "1",
+		"personid": "5",
+		"admissiondate": "2016-08-15",
+		"previoustay": "y",
+		"reason": "surgery for hernia",
+		"patienttype": "1"
+	},
+	{
+		"patientid": "3",
+		"roleid": "1",
+		"personid": "6",
+		"admissiondate": "2016-08-31",
+		"previoustay": "y",
+		"reason": "blood test",
+		"patienttype": "0"
+	},
+	{
+		"patientid": "4",
+		"roleid": "1",
+		"personid": "7",
+		"admissiondate": "2016-09-05",
+		"previoustay": "y",
+		"reason": "xray for ankle",
+		"patienttype": "0"
+	},
+	{
+		"patientid": "5",
+		"roleid": "1",
+		"personid": "9",
+		"admissiondate": "2016-09-13",
+		"previoustay": "n",
+		"reason": "pneumonia",
+		"patienttype": "0"
+	},
+	{
+		"patientid": "6",
+		"roleid": "1",
+		"personid": "10",
+		"admissiondate": "2016-09-13",
+		"previoustay": "y",
+		"reason": "pulmonary heart disease",
+		"patienttype": "1"
+	},
+	{
+		"patientid": "7",
+		"roleid": "1",
+		"personid": "11",
+		"admissiondate": "2016-09-25",
+		"previoustay": "n",
+		"reason": "pulmonary heart disease",
+		"patienttype": "1"
+	},
+	{
+		"patientid": "8",
+		"roleid": "1",
+		"personid": "12",
+		"admissiondate": "2016-10-19",
+		"previoustay": "n",
+		"reason": "intestinal infection",
+		"patienttype": "0"
+	},
+	{
+		"patientid": "9",
+		"roleid": "1",
+		"personid": "13",
+		"admissiondate": "2016-10-30",
+		"previoustay": "y",
+		"reason": "pulmonary heart disease",
+		"patienttype": "1"
+	},
+	{
+		"patientid": "10",
+		"roleid": "1",
+		"personid": "14",
+		"admissiondate": "2016-11-21",
+		"previoustay": "y",
+		"reason": "xray for little finger",
+		"patienttype": "0"
+	},
+	{
+		"patientid": "11",
+		"roleid": "1",
+		"personid": "15",
+		"admissiondate": "2016-11-23",
+		"previoustay": "y",
+		"reason": "surgery for neck",
+		"patienttype": "1"
+	}
+]
+)
+
+use person
+db.person.insertMany(
+	[
+	{
+		"person id": "1",
+		"fname": "gaurang",
+		"lname": "deshpande",
+		"address id": "",
+		"email id": "gaurang.deshpande@gmail.com",
+		"contact": "4016631737",
+		"insurance no": ""
+	},
+	{
+		"person id": "2",
+		"fname": "shamal",
+		"lname": "bhole",
+		"address id": "2",
+		"email id": "shamal.bhole@gmail.com",
+		"contact": "4092814850",
+		"insurance no": "2"
+	},
+	{
+		"person id": "3",
+		"fname": "vandana",
+		"lname": "tiwari",
+		"address id": "3",
+		"email id": "vandana.tiwari@gmail.com",
+		"contact": "4324058361",
+		"insurance no": "3"
+	},
+	{
+		"person id": "4",
+		"fname": "vihar",
+		"lname": "raul",
+		"address id": "4",
+		"email id": "vihar.raul@gmail.com",
+		"contact": "3456783245",
+		"insurance no": "7"
+	},
+	{
+		"person id": "5",
+		"fname": "amita",
+		"lname": "murali",
+		"address id": "5",
+		"email id": "amita.murali@gmail.com",
+		"contact": "7629274212",
+		"insurance no": "4"
+	},
+	{
+		"person id": "6",
+		"fname": "rutika",
+		"lname": "araokar",
+		"address id": "6",
+		"email id": "rutika.araokar@gmail.com",
+		"contact": "5024591098",
+		"insurance no": "9"
+	},
+	{
+		"person id": "7",
+		"fname": "bhavesh",
+		"lname": "sachdev",
+		"address id": "7",
+		"email id": "bhavesh.sachdev@gmail.com",
+		"contact": "6720018901",
+		"insurance no": ""
+	},
+	{
+		"person id": "8",
+		"fname": "shritu",
+		"lname": "mehta",
+		"address id": "8",
+		"email id": "shritu.mehta@gmail.com",
+		"contact": "2013948564",
+		"insurance no": "8"
+	},
+	{
+		"person id": "9",
+		"fname": "sneha",
+		"lname": "shetty",
+		"address id": "",
+		"email id": "sneha.shetty@gmail.com",
+		"contact": "9387120301",
+		"insurance no": "5"
+	},
+	{
+		"person id": "10",
+		"fname": "manish",
+		"lname": "patil",
+		"address id": "9",
+		"email id": "manish.patil@gmail.com",
+		"contact": "3839205968",
+		"insurance no": "1"
+	},
+	{
+		"person id": "11",
+		"fname": "shailesh",
+		"lname": "hegde",
+		"address id": "10",
+		"email id": "shailesh.hegde@gmail.com",
+		"contact": "3895048271",
+		"insurance no": "6"
+	},
+	{
+		"person id": "12",
+		"fname": "antriksh",
+		"lname": "sharma",
+		"address id": "",
+		"email id": "antriksh.sharma@gmail.com",
+		"contact": "2372335802",
+		"insurance no": "11"
+	},
+	{
+		"person id": "13",
+		"fname": "avee",
+		"lname": "arora",
+		"address id": "11",
+		"email id": "avee.arora@gmail.com",
+		"contact": "5643567765",
+		"insurance no": "16"
+	},
+	{
+		"person id": "14",
+		"fname": "ketki",
+		"lname": "deshpande",
+		"address id": "12",
+		"email id": "ketki.deshpande@gmail.com",
+		"contact": "9876523464",
+		"insurance no": "19"
+	},
+	{
+		"person id": "15",
+		"fname": "neeraj",
+		"lname": "rajput",
+		"address id": "",
+		"email id": "neeraj.rajput@gmail.com",
+		"contact": "3245677654",
+		"insurance no": "12"
+	},
+	{
+		"person id": "16",
+		"fname": "saurabh",
+		"lname": "rao",
+		"address id": "13",
+		"email id": "saurabh.rao@gmail.com",
+		"contact": "3567876545",
+		"insurance no": ""
+	},
+	{
+		"person id": "17",
+		"fname": "pratiksha",
+		"lname": "shetty",
+		"address id": "14",
+		"email id": "pratiksha.shetty@gmail.com",
+		"contact": "8972439875",
+		"insurance no": "10"
+	},
+	{
+		"person id": "18",
+		"fname": "suprita",
+		"lname": "puned",
+		"address id": "15",
+		"email id": "suprita.puned@gmail.com",
+		"contact": "8762376864",
+		"insurance no": "13"
+	},
+	{
+		"person id": "19",
+		"fname": "shivam",
+		"lname": "negi",
+		"address id": "",
+		"email id": "shivam.negi@gmail.com",
+		"contact": "9876132425",
+		"insurance no": "15"
+	},
+	{
+		"person id": "20",
+		"fname": "shrikant",
+		"lname": "mudholkar",
+		"address id": "16",
+		"email id": "shrikant.mudholkar@gmail.com",
+		"contact": "3245678765",
+		"insurance no": "14"
+	},
+	{
+		"person id": "21",
+		"fname": "sushrut",
+		"lname": "tadwalkar",
+		"address id": "17",
+		"email id": "sushrut.tadwalkar@gmail.com",
+		"contact": "4369876524",
+		"insurance no": "19"
+	},
+	{
+		"person id": "22",
+		"fname": "kedar",
+		"lname": "deshmukh",
+		"address id": "18",
+		"email id": "kedar.deshmukh@gmail.com",
+		"contact": "4328762436",
+		"insurance no": "22"
+	},
+	{
+		"person id": "23",
+		"fname": "rohan",
+		"lname": "jahagirdar",
+		"address id": "",
+		"email id": "rohan.jahagirdar@gmail.com",
+		"contact": "9876543212",
+		"insurance no": ""
+	},
+	{
+		"person id": "24",
+		"fname": "lahari",
+		"lname": "palle",
+		"address id": "19",
+		"email id": "lahari.palle@gmail.com",
+		"contact": "2436776543",
+		"insurance no": "20"
+	},
+	{
+		"person id": "25",
+		"fname": "akansha",
+		"lname": "harshe",
+		"address id": "20",
+		"email id": "akansha.harshe@gmail.com",
+		"contact": "3425678765",
+		"insurance no": "21"
+	},
+	{
+		"person id": "26",
+		"fname": "shephali",
+		"lname": "mahajan",
+		"address id": "21",
+		"email id": "shephali.mahajan@gmail.com",
+		"contact": "4368756442",
+		"insurance no": ""
+	},
+	{
+		"person id": "27",
+		"fname": "priyal",
+		"lname": "chaudhari",
+		"address id": "22",
+		"email id": "priyal.chaudhari@gmail.com",
+		"contact": "5786435456",
+		"insurance no": "23"
+	}
+]
+)
+
+use staff
+db.staff.insertMany(
+	[
+	{
+		"staffid": "1",
+		"depid": "1",
+		"designa": "md",
+		"roleid": "2",
+		"person": "3"
+	},
+	{
+		"staffid": "2",
+		"depid": "2",
+		"designa": "ms",
+		"roleid": "2",
+		"person": "2"
+	},
+	{
+		"staffid": "3",
+		"depid": "2",
+		"designa": "",
+		"roleid": "6",
+		"person": "4"
+	},
+	{
+		"staffid": "4",
+		"depid": "6",
+		"designa": "mbbs",
+		"roleid": "2",
+		"person": "8"
+	},
+	{
+		"staffid": "5",
+		"depid": "5",
+		"designa": "",
+		"roleid": "6",
+		"person": "19"
+	},
+	{
+		"staffid": "6",
+		"depid": "6",
+		"designa": "mbbs",
+		"roleid": "2",
+		"person": "21"
+	},
+	{
+		"staffid": "7",
+		"depid": "7",
+		"designa": "ms",
+		"roleid": "2",
+		"person": "22"
+	},
+	{
+		"staffid": "8",
+		"depid": "10",
+		"designa": "",
+		"roleid": "6",
+		"person": "18"
+	},
+	{
+		"staffid": "9",
+		"depid": "10",
+		"designa": "",
+		"roleid": "3",
+		"person": "17"
+	},
+	{
+		"staffid": "10",
+		"depid": "8",
+		"designa": "ms",
+		"roleid": "2",
+		"person": "27"
+	},
+	{
+		"staffid": "11",
+		"depid": "6",
+		"designa": "",
+		"roleid": "6",
+		"person": "26"
+	},
+	{
+		"staffid": "12",
+		"depid": "11",
+		"designa": "attendant",
+		"roleid": "4",
+		"person": "20"
+	}
+]
+)
+
+use role
+db.role.insertMany(
+	[
+	{
+		"roleid": "1",
+		"rolename": "patient"
+	},
+	{
+		"roleid": "2",
+		"rolename": "doctor"
+	},
+	{
+		"roleid": "3",
+		"rolename": "lab assistant"
+	},
+	{
+		"roleid": "4",
+		"rolename": "front desk attendant"
+	},
+	{
+		"roleid": "5",
+		"rolename": "hostadmin"
+	},
+	{
+		"roleid": "6",
+		"rolename": "nurse"
+	}
+]
+)
+
+use insurance
+db.insurance.insertMany(
+	[
+	{
+		"insuranceno": "1",
+		"insutype": "1",
+		"insudate": "2012-12-03",
+		"expdate": "2016-09-25"
+	},
+	{
+		"insuranceno": "2",
+		"insutype": "1",
+		"insudate": "2012-12-02",
+		"expdate": "2016-10-19"
+	},
+	{
+		"insuranceno": "3",
+		"insutype": "2",
+		"insudate": "2013-01-18",
+		"expdate": "2016-10-30"
+	},
+	{
+		"insuranceno": "4",
+		"insutype": "1",
+		"insudate": "2013-01-19",
+		"expdate": "2016-11-21"
+	},
+	{
+		"insuranceno": "5",
+		"insutype": "2",
+		"insudate": "2013-04-06",
+		"expdate": "2016-11-23"
+	},
+	{
+		"insuranceno": "6",
+		"insutype": "1",
+		"insudate": "2013-05-17",
+		"expdate": "2017-01-05"
+	},
+	{
+		"insuranceno": "7",
+		"insutype": "2",
+		"insudate": "2013-06-03",
+		"expdate": "2017-01-26"
+	},
+	{
+		"insuranceno": "8",
+		"insutype": "2",
+		"insudate": "2013-06-11",
+		"expdate": "2017-02-16"
+	},
+	{
+		"insuranceno": "9",
+		"insutype": "1",
+		"insudate": "2013-07-22",
+		"expdate": "2017-03-05"
+	},
+	{
+		"insuranceno": "10",
+		"insutype": "3",
+		"insudate": "2013-07-28",
+		"expdate": "2017-03-21"
+	},
+	{
+		"insuranceno": "11",
+		"insutype": "5",
+		"insudate": "2013-08-07",
+		"expdate": "2017-04-03"
+	},
+	{
+		"insuranceno": "12",
+		"insutype": "3",
+		"insudate": "2013-08-08",
+		"expdate": "2017-05-06"
+	},
+	{
+		"insuranceno": "13",
+		"insutype": "4",
+		"insudate": "2013-09-10",
+		"expdate": "2017-05-13"
+	},
+	{
+		"insuranceno": "14",
+		"insutype": "3",
+		"insudate": "2013-09-21",
+		"expdate": "2017-07-01"
+	},
+	{
+		"insuranceno": "15",
+		"insutype": "5",
+		"insudate": "2013-10-04",
+		"expdate": "2017-07-18"
+	},
+	{
+		"insuranceno": "16",
+		"insutype": "3",
+		"insudate": "2013-10-09",
+		"expdate": "2017-08-01"
+	},
+	{
+		"insuranceno": "17",
+		"insutype": "4",
+		"insudate": "2013-10-15",
+		"expdate": "2017-08-09"
+	},
+	{
+		"insuranceno": "18",
+		"insutype": "3",
+		"insudate": "2013-11-12",
+		"expdate": "2017-09-11"
+	},
+	{
+		"insuranceno": "19",
+		"insutype": "2",
+		"insudate": "2013-11-16",
+		"expdate": "2017-10-05"
+	},
+	{
+		"insuranceno": "20",
+		"insutype": "4",
+		"insudate": "2013-11-17",
+		"expdate": "2017-10-21"
+	},
+	{
+		"insuranceno": "21",
+		"insutype": "1",
+		"insudate": "2013-11-21",
+		"expdate": "2017-10-23"
+	},
+	{
+		"insuranceno": "22",
+		"insutype": "4",
+		"insudate": "2013-11-28",
+		"expdate": "2017-11-13"
+	},
+	{
+		"insuranceno": "23",
+		"insutype": "1",
+		"insudate": "2013-12-05",
+		"expdate": "2017-11-16"
+	}
+]
+)
+
+use insuranceType
+db.insuranceType.insertMany(
+	[
+	{
+		"insurance type id": "1",
+		"insu name": "accidental",
+		"max amount": "150000"
+	},
+	{
+		"insurance type id": "2",
+		"insu name": "acute care",
+		"max amount": "50000"
+	},
+	{
+		"insurance type id": "3",
+		"insu name": "dependent coverage",
+		"max amount": "100000"
+	},
+	{
+		"insurance type id": "4",
+		"insu name": "indemnity plan",
+		"max amount": "80000"
+	},
+	{
+		"insurance type id": "5",
+		"insu name": "long-term care",
+		"max amount": "200000"
+	},
+	{
+		"insurance type id": "6",
+		"insu name": "medicare",
+		"max amount": "60000"
+	},
+	{
+		"insurance type id": "7",
+		"insu name": "vision care coverage",
+		"max amount": "10000"
+	}
+]
+)
+
+use medicinePrescription
+db.medicinePrescription.insertMany([
+	{
+		"medid": "1",
+		"presid": "1",
+		"qty": "2"
+	},
+	{
+		"medid": "2",
+		"presid": "1",
+		"qty": "2"
+	},
+	{
+		"medid": "3",
+		"presid": "1",
+		"qty": "3"
+	},
+	{
+		"medid": "1",
+		"presid": "2",
+		"qty": "2"
+	},
+	{
+		"medid": "5",
+		"presid": "2",
+		"qty": "3"
+	},
+	{
+		"medid": "2",
+		"presid": "3",
+		"qty": "1"
+	},
+	{
+		"medid": "3",
+		"presid": "3",
+		"qty": "2"
+	},
+	{
+		"medid": "8",
+		"presid": "3",
+		"qty": "4"
+	},
+	{
+		"medid": "14",
+		"presid": "3",
+		"qty": "1"
+	},
+	{
+		"medid": "1",
+		"presid": "4",
+		"qty": "2"
+	},
+	{
+		"medid": "15",
+		"presid": "4",
+		"qty": "3"
+	},
+	{
+		"medid": "6",
+		"presid": "4",
+		"qty": "1"
+	},
+	{
+		"medid": "8",
+		"presid": "5",
+		"qty": "2"
+	},
+	{
+		"medid": "4",
+		"presid": "5",
+		"qty": "2"
+	},
+	{
+		"medid": "1",
+		"presid": "6",
+		"qty": "1"
+	},
+	{
+		"medid": "9",
+		"presid": "7",
+		"qty": "4"
+	},
+	{
+		"medid": "11",
+		"presid": "7",
+		"qty": "2"
+	},
+	{
+		"medid": "12",
+		"presid": "7",
+		"qty": "3"
+	},
+	{
+		"medid": "4",
+		"presid": "8",
+		"qty": "1"
+	},
+	{
+		"medid": "7",
+		"presid": "8",
+		"qty": "2"
+	},
+	{
+		"medid": "2",
+		"presid": "9",
+		"qty": "3"
+	},
+	{
+		"medid": "6",
+		"presid": "9",
+		"qty": "1"
+	},
+	{
+		"medid": "14",
+		"presid": "9",
+		"qty": "4"
+	},
+	{
+		"medid": "2",
+		"presid": "10",
+		"qty": "1"
+	},
+	{
+		"medid": "1",
+		"presid": "10",
+		"qty": "2"
+	},
+	{
+		"medid": "13",
+		"presid": "10",
+		"qty": "3"
+	},
+	{
+		"medid": "12",
+		"presid": "10",
+		"qty": "1"
+	},
+	{
+		"medid": "3",
+		"presid": "11",
+		"qty": "2"
+	},
+	{
+		"medid": "4",
+		"presid": "11",
+		"qty": "1"
+	},
+	{
+		"medid": "8",
+		"presid": "12",
+		"qty": "2"
+	},
+	{
+		"medid": "6",
+		"presid": "12",
+		"qty": "2"
+	},
+	{
+		"medid": "9",
+		"presid": "12",
+		"qty": "3"
+	},
+	{
+		"medid": "15",
+		"presid": "12",
+		"qty": "3"
+	},
+	{
+		"medid": "15",
+		"presid": "13",
+		"qty": "1"
+	},
+	{
+		"medid": "1",
+		"presid": "13",
+		"qty": "2"
+	},
+	{
+		"medid": "7",
+		"presid": "13",
+		"qty": "2"
+	},
+	{
+		"medid": "5",
+		"presid": "14",
+		"qty": "1"
+	}
+])
+
+use medicine
+db.medicine.insertMany(
+	[
+	{
+		"medid": "1",
+		"medname": "aspirin",
+		"price": "3"
+	},
+	{
+		"medid": "2",
+		"medname": "abacavir",
+		"price": "6"
+	},
+	{
+		"medid": "3",
+		"medname": "abenol",
+		"price": "10"
+	},
+	{
+		"medid": "4",
+		"medname": "acova",
+		"price": "35"
+	},
+	{
+		"medid": "5",
+		"medname": "caduet",
+		"price": "15"
+	},
+	{
+		"medid": "6",
+		"medname": "cycloset",
+		"price": "20"
+	},
+	{
+		"medid": "7",
+		"medname": "gabitril",
+		"price": "5"
+	},
+	{
+		"medid": "8",
+		"medname": "gynodiol",
+		"price": "9"
+	},
+	{
+		"medid": "9",
+		"medname": "ibudone",
+		"price": "10"
+	},
+	{
+		"medid": "10",
+		"medname": "macitentan",
+		"price": "18"
+	},
+	{
+		"medid": "11",
+		"medname": "methadone",
+		"price": "22"
+	},
+	{
+		"medid": "12",
+		"medname": "pacerone",
+		"price": "20"
+	},
+	{
+		"medid": "13",
+		"medname": "phlemex",
+		"price": "26"
+	},
+	{
+		"medid": "14",
+		"medname": "sabril",
+		"price": "5"
+	},
+	{
+		"medid": "15",
+		"medname": "soma",
+		"price": "30"
+	}
+]
+)
+
+use prescription
+db.prescription.insertMany([
+	{
+		"pid": "1",
+		"pstartdate": "2016-08-13",
+		"penddate": "2016-08-28",
+		"dose": "2",
+		"presby": "4",
+		"presto": "1"
+	},
+	{
+		"pid": "2",
+		"pstartdate": "2016-08-15",
+		"penddate": "2016-08-31",
+		"dose": "2",
+		"presby": "5",
+		"presto": "2"
+	},
+	{
+		"pid": "3",
+		"pstartdate": "2016-08-31",
+		"penddate": "2016-09-21",
+		"dose": "3",
+		"presby": "6",
+		"presto": "3"
+	},
+	{
+		"pid": "4",
+		"pstartdate": "2016-09-05",
+		"penddate": "2016-09-24",
+		"dose": "2",
+		"presby": "6",
+		"presto": "4"
+	},
+	{
+		"pid": "5",
+		"pstartdate": "2016-09-13",
+		"penddate": "2016-09-29",
+		"dose": "3",
+		"presby": "7",
+		"presto": "5"
+	},
+	{
+		"pid": "6",
+		"pstartdate": "2016-09-13",
+		"penddate": "2016-09-23",
+		"dose": "3",
+		"presby": "2",
+		"presto": "6"
+	},
+	{
+		"pid": "7",
+		"pstartdate": "2016-09-25",
+		"penddate": "2016-10-05",
+		"dose": "2",
+		"presby": "2",
+		"presto": "7"
+	},
+	{
+		"pid": "8",
+		"pstartdate": "2016-10-19",
+		"penddate": "2016-11-09",
+		"dose": "1",
+		"presby": "5",
+		"presto": "8"
+	},
+	{
+		"pid": "9",
+		"pstartdate": "2016-10-30",
+		"penddate": "2016-11-15",
+		"dose": "2",
+		"presby": "2",
+		"presto": "9"
+	},
+	{
+		"pid": "10",
+		"pstartdate": "2016-11-21",
+		"penddate": "2016-12-21",
+		"dose": "1",
+		"presby": "4",
+		"presto": "10"
+	},
+	{
+		"pid": "11",
+		"pstartdate": "2016-11-23",
+		"penddate": "2016-12-23",
+		"dose": "1",
+		"presby": "6",
+		"presto": "11"
+	},
+	{
+		"pid": "12",
+		"pstartdate": "2016-09-01",
+		"penddate": "2016-09-21",
+		"dose": "3",
+		"presby": "5",
+		"presto": "2"
+	},
+	{
+		"pid": "13",
+		"pstartdate": "2016-09-25",
+		"penddate": "2016-10-15",
+		"dose": "2",
+		"presby": "1",
+		"presto": "4"
+	},
+	{
+		"pid": "14",
+		"pstartdate": "2016-09-30",
+		"penddate": "2016-10-20",
+		"dose": "2",
+		"presby": "7",
+		"presto": "5"
+	}
+])
+
+use process
+db.process.insertMany(
+	[
+	{
+		"procid": "1",
+		"date": "2016-08-15",
+		"desc": "blood test",
+		"performedby": "3",
+		"performedon": "1",
+		"bill": "90"
+	},
+	{
+		"procid": "2",
+		"date": "2016-08-18",
+		"desc": "x ray scanning",
+		"performedby": "9",
+		"performedon": "1",
+		"bill": "150"
+	},
+	{
+		"procid": "3",
+		"date": "2016-08-18",
+		"desc": "lab test",
+		"performedby": "9",
+		"performedon": "2",
+		"bill": "100"
+	},
+	{
+		"procid": "4",
+		"date": "2016-09-02",
+		"desc": "blood test",
+		"performedby": "5",
+		"performedon": "3",
+		"bill": "90"
+	},
+	{
+		"procid": "5",
+		"date": "2016-09-06",
+		"desc": "lab test",
+		"performedby": "9",
+		"performedon": "3",
+		"bill": "100"
+	},
+	{
+		"procid": "6",
+		"date": "2016-09-06",
+		"desc": "blood test",
+		"performedby": "8",
+		"performedon": "4",
+		"bill": "90"
+	},
+	{
+		"procid": "7",
+		"date": "2016-09-09",
+		"desc": "lab test",
+		"performedby": "9",
+		"performedon": "4",
+		"bill": "100"
+	},
+	{
+		"procid": "8",
+		"date": "2016-11-24",
+		"desc": "x ray scanning",
+		"performedby": "9",
+		"performedon": "10",
+		"bill": "150"
+	},
+	{
+		"procid": "9",
+		"date": "2016-09-15",
+		"desc": "ct scan",
+		"performedby": "1",
+		"performedon": "5",
+		"bill": "250"
+	},
+	{
+		"procid": "10",
+		"date": "2016-10-21",
+		"desc": "lab test",
+		"performedby": "9",
+		"performedon": "8",
+		"bill": "100"
+	},
+	{
+		"procid": "11",
+		"date": "2016-09-15",
+		"desc": "blood test",
+		"performedby": "8",
+		"performedon": "6",
+		"bill": "90"
+	},
+	{
+		"procid": "12",
+		"date": "2016-09-18",
+		"desc": "blood test",
+		"performedby": "9",
+		"performedon": "6",
+		"bill": "90"
+	}
+]
+)
+
+
+db.patient.find( { "patientid": "2" } )
+var myCursor = db.patient.find({"patientid":"2"})
+var patient_id = myCursor.hasNext() ? myCursor.next() : null
+db.person.find({"person id" : "patient_id.personid"})

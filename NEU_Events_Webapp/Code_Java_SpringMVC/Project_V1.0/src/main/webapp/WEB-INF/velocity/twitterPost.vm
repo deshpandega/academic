@@ -1,0 +1,7 @@
+<div class="mdl-card mdl-cell mdl-cell--4-col event2" style="height: 95%;">
+	<form action="viewEvent.vm" method="POST">
+		<div class="mdl-card__supporting-text" style="width: 96%;">
+			<a class="twitter-timeline" data-height="88%" data-theme="light" data-link-color="#E91E63" href="https://twitter.com/Northeastern">Tweets by Northeastern</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+		</div>
+	</form>
+</div>

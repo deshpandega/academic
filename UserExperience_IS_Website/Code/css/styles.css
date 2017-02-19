@@ -1,0 +1,93 @@
+/*-------------------------------------------------
+GLOBALS CLASSES 
+-------------------------------------------------*/
+*{padding:0; margin:0;}
+body{ font-size:14px; color:#9b9e9a; background:#ffffff;}
+img{border:none;}
+h1{ font-size:25px; color:#243036; font-family: 'Roboto', ; font-weight:normal;}
+h2{ font-size:16px; color:#66a7c5; font-family: 'Roboto', sans-serif; font-weight:normal;}
+P{ line-height:20px;}
+a{text-decoration:none; color:#66a7c5;}
+a:hover{color:#ee3233;}
+/*-------------------------------------------------
+GENERAL CLASSES
+-------------------------------------------------*/
+.mar-top30{margin-top:30px !important;}
+.mar-right30{ margin-right:30px;}
+.mar-right20{ margin-right:20px;}
+.padding-right{padding-right:30px;}
+.border-right{border-right:#f34041 solid 1px;}
+.border-left{border-right:#f34041 solid 1px;}
+.float-left{ float:left;}
+.bdr-bottom-none{border-bottom:none !important;}
+.float-right{ float:right;}
+.clearing { clear:both;}
+.page{margin:0 auto; overflow:hidden;}
+.panel{ overflow:hidden;}
+.title{}
+.content{}
+.button a{text-decoration:none; display:block; width:107px; height:35px; background:#ee3233; color:#ffffff; line-height:35px; text-align:center; font-size:15px;}
+.button a:hover{ background:#66a7c5;}
+.page{ width:1000px; margin:0 auto;overflow:hidden;}
+/*-------------------------------------------------
+HEADER CLASSES
+-------------------------------------------------*/
+.header-wrap{background:#ee3233; overflow:hidden; padding-top:85px; padding-bottom:40px;}
+.header{margin:0 auto;}
+.logo h1{ float:left; color:#ffffff; font-size:45px;}
+
+.menu{ float:right;}
+.menu ul li{ list-style:none; float:left; font-size:18px; padding:10px;}
+.menu ul li a{color:#ffffff; text-decoration:none; padding:10px;}
+.menu ul li a:hover{ background:#66a7c5; padding:10px;}
+.menu ul li a.active{ background:#66a7c5; padding:10px;}
+
+/*-------------------------------------------------
+BANNER CLASSES
+-------------------------------------------------*/
+.banner-wrap{ background:#eeeef0; overflow:hidden; margin-bottom:60px; clear:both;}
+.banner{width:1000px; margin:0 auto;}
+.banner .banner-img{float:left;}
+.banner .panel{ padding-top:80px;}
+.banner .panel .title h1{ font-size:45px;}
+.banner .content{ float:right;}
+.banner .content p{ font-size:20px; color:#c3c3c3; padding-top:30px;}
+.banner .arrows{float:left; padding-top:80px; margin-right:5px;}
+
+/*-------------------------------------------------
+MAIN COLUMAS CLASSES
+-------------------------------------------------*/
+.primary-col{ padding-right:40px;  float:left;}
+.primary-col h1{ padding-bottom:30px;}
+.side-bar{width:290px; float:right;}
+.side-bar h1,h2{padding-bottom:20px;}
+.side-bar .content p{ padding-bottom:20px; }
+.side-bar p span{ color:#66a7c5; text-decoration:underline;}
+.side-bar a{text-decoration:underline; color:#ee3233;}
+.side-bar a:hover{color:#66a7c5;}
+.search, .testimonnial, .submenu, .quick-contact{padding-bottom:30px;overflow:hidden; border-bottom:#f2f2f2 solid 1px; margin-bottom:40px; width:auto;}
+
+
+.generic{ float:left; border-bottom:#f2f2f2 solid 1px;}
+.generic .panel{ margin-bottom:60px;}
+.generic .title{font-style: Roboto}
+.generic .content{font-size: 20px; color:black;}
+.generic .content h2{ padding-bottom:20px;}
+.generic .content p{ padding-bottom:30px;}
+.generic .content ul li{list-style-position: inside;}
+
+/*-------------------------------------------------
+BLOCK CLASSES
+-------------------------------------------------*/
+.wrap-1{ width:630px;  border-bottom:#f2f2f2 solid 1px; overflow:hidden; padding-top:40px; margin-bottom:50px;}
+.wrap-1 .panel{width:300px; margin-bottom:50px;}
+.wrap-1 .content h2{ padding-bottom:10px;}
+.wrap-1 .content h2 a{text-decoration:underline;}
+.wrap-1 .content p{padding-left:140px; line-height:18px;}
+
+
+
+
+
+
+
