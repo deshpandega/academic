@@ -41,6 +41,6 @@ public final class Util {
     static final String SALT_KEY = "NortheasternUniv";
     
     //Send Email
-    static final String USERNAME = "inferno.kool@gmail.com";
-    static final String PASSWORD = "IMhopelessbutstilliamCOOL9";
+    static final String USERNAME = "<username>";
+    static final String PASSWORD = "<password>";
 }
