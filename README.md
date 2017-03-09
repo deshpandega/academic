@@ -1,3 +1,22 @@
+## Big Data - 'Releasing Soon'
+This project was developed as **Big Data** application implementing `Artificial Neural Network` using `genetic mutation algorithm`. Movie data set from `IMDB` was used to know about past released movies and factors like writers, directors, actors, actresses, etc. affecting the rating. The movie's fan count or marketing and publicity factor was also considered by using `Facebook graph API` and `Twitter API`.  The data was cleaned and fed to neural network to train the weights and the trained neural network was used to test the movie under consideration for prediction. Accuracy of the model was around 85%.
+
+#### Details:
+
+
+> **The project has following implementations:**
+> 
+> - Analyzed movie data comprising of IMDB, Facebook and Twitter. Real time Twitter and Facebook data on demand was collected. IMDB Data of over 40000 movies were extracted using `OMDB API`
+> - Predicted the range of ratings (box office success) for a future movie.
+> - Validated Rating for movies with past dated release movies
+> - `IMDB` : Movie Name, Actors, Director, Writers, Ratings, Genre, Languages etc. There were 78 ratings, 25 genres, 14484 directors, 52120 actors, 47061 writers and 106 countires in 236 languages.
+> - `Facebook` : Fan count and talk about count
+> - `Twitter` : Tweets for particular movie. Received over 0.5MB data per movie. So to reduce the resource consumption, only useful data was extracted 
+> - Used average over span and exponential normalization techniques to condition the data and fed to neural network to get predictions.
+
+----
+
+
 ## Cybersecurity Implementation
 This project was developed as **Java** application. The project is healthcare based application simulating hospital management system. The goal for developing this application was to understand all Java concepts like *Inheritance, Polymorphism, Abstraction and Encapsulation* and incorporate the necessary features demonstrating cybersecurity features. The application used `.db4o` files as database to store java objects as is. The project also has an application for patients suffering from Parkinson's disease to measure their responsiveness and to check if the medication they are receiving is effective or not.
 
@@ -43,23 +62,6 @@ This project was developed as **Database** application. The application used MyS
 
 ----
 
-## Big Data - 'Releasing Soon'
-This project was developed as **Big Data** application implementing `Artificial Neural Network` using `genetic mutation algorithm`. Movie data set from `IMDB` was used to know about past released movies and factors like writers, directors, actors, actresses, etc. affecting the rating. The movie's fan count or marketing and publicity factor was also considered by using `Facebook graph API` and `Twitter API`.  The data was cleaned and fed to neural network to train the weights and the trained neural network was used to test the movie under consideration for prediction. Accuracy of the model was around 85%.
-
-#### Details:
-
-
-> **The project has following implementations:**
-> 
-> - Analyzed movie data comprising of IMDB, Facebook and Twitter. Real time Twitter and Facebook data on demand was collected. IMDB Data of over 40000 movies were extracted using `OMDB API`
-> - Predicted the range of ratings (box office success) for a future movie.
-> - Validated Rating for movies with past dated release movies
-> - `IMDB` : Movie Name, Actors, Director, Writers, Ratings, Genre, Languages etc. There were 78 ratings, 25 genres, 14484 directors, 52120 actors, 47061 writers and 106 countires in 236 languages.
-> - `Facebook` : Fan count and talk about count
-> - `Twitter` : Tweets for particular movie. Received over 0.5MB data per movie. So to reduce the resource consumption, only useful data was extracted 
-> - Used average over span and exponential normalization techniques to condition the data and fed to neural network to get predictions.
-
-----
 
 ## NEU Events Webapp
 This project was developed as **Full Stack Web Application**. Frontend was developed using HTML, along with Material Design libraries. The backend was developed using Spring MVC architecture and Hibernate to connect to MySQL database. The application would be a portal where people would post about events going on in and around campus. To view the events, user doesn't need to login but to post an event, user need to create an account with portal. 
