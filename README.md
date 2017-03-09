@@ -20,7 +20,7 @@ This project was developed as **Java** application. The project is healthcare ba
 ----
 
 ## Hospital Management DB
-This project was developed as **Database** application. The application used MySQL as database simulating a database design for a hospital management system. Implemented the concepts like database design principles, EER diagram, relational model, queries, stored procedures, triggers, users, views, transactions, privileges, backups, subqueries, joins, normalization techniques, indexing and functions.
+This project was developed as **Database** application. The application used MySQL and Mongo DB as database simulating a database design for a hospital management system. Implemented the concepts like database design principles, EER diagram, relational model, queries, stored procedures, triggers, users, views, transactions, privileges, backups, subqueries, joins, normalization techniques, indexing and functions.
 
 #### Details:
 
@@ -43,7 +43,7 @@ This project was developed as **Database** application. The application used MyS
 
 ----
 
-## Machine Learning - 'Releasing Soon'
+## Big Data - 'Releasing Soon'
 This project was developed as **Big Data** application implementing `Artificial Neural Network` using `genetic mutation algorithm`. Movie data set from `IMDB` was used to know about past released movies and factors like writers, directors, actors, actresses, etc. affecting the rating. The movie's fan count or marketing and publicity factor was also considered by using `Facebook graph API` and `Twitter API`.  The data was cleaned and fed to neural network to train the weights and the trained neural network was used to test the movie under consideration for prediction. Accuracy of the model was around 85%.
 
 #### Details:
